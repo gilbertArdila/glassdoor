@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "glassDoor"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ffafa457-8771-41e9-9664-011806a76f45"
+  }
+}

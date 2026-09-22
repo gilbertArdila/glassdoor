@@ -1,0 +1,31 @@
+# ==========================================
+# 1. Power BI Project (.pbip) - Exclusiones obligatorias
+# ==========================================
+# Ignorar configuraciones locales de usuario del reporte y del modelo
+**/__pycache__/
+**/.pbi/localSettings.json
+**/.pbi/user.config
+**/localSettings.json
+
+# Ignorar la caché de datos de Power BI (evita subir gigas de datos temporales)
+**/cache.abf
+
+# Ignorar copias de seguridad automáticas del modelo semántico si existieran
+**/*.backup
+
+# ==========================================
+# 2. Python y Jupyter Notebooks
+# ==========================================
+# Ignorar puntos de control temporales de Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Archivos de entorno virtual si llegas a crear uno localmente
+env/
+venv/
+.env
+.venv
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+relationship cb10e809-554b-6d1b-fe44-6c20729a59ac
+	crossFilteringBehavior: bothDirections
+	toCardinality: many
+	fromColumn: glassDoor.job_simp
+	toColumn: glassdoor_habilidades.job_simp
+

@@ -1,0 +1,16 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "e8db378d2c66b2cdfba6",
+  "position": {
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "height": 720,
+    "width": 154.41396508728178,
+    "tabOrder": 1000
+  },
+  "visualGroup": {
+    "displayName": "Menú lateral",
+    "groupMode": "ScaleMode"
+  }
+}

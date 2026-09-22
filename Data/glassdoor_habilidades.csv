@@ -1,0 +1,3711 @@
+﻿job_simp,job_state,seniority,hourly,Herramienta,Requerido
+data scientist,NM,na,0,Python,1
+data scientist,MD,na,0,Python,1
+data scientist,FL,na,0,Python,1
+data scientist,WA,na,0,Python,1
+data scientist,NY,na,0,Python,1
+data scientist,TX,na,0,Python,1
+data scientist,MD,na,0,Python,0
+data scientist,CA,na,0,Python,1
+other scientist,NY,na,0,Python,0
+data scientist,NY,na,0,Python,1
+data scientist,CA,na,0,Python,1
+data scientist,VA,na,0,Python,0
+data scientist,TX,na,0,Python,0
+analyst,WA,na,0,Python,1
+data scientist,MA,na,0,Python,1
+data engineer,NJ,na,0,Python,0
+other scientist,MA,na,0,Python,0
+data scientist,CA,na,0,Python,1
+data scientist,CA,na,0,Python,0
+data scientist,CO,na,0,Python,1
+data scientist,WA,na,0,Python,1
+data scientist,TX,senior,0,Python,0
+data scientist,IL,na,0,Python,1
+data scientist,KY,na,0,Python,1
+data scientist,VA,na,0,Python,1
+data scientist,MA,na,0,Python,1
+data scientist,OR,na,0,Python,1
+analyst,MA,na,0,Python,0
+data scientist,CT,na,0,Python,0
+data scientist,FL,na,0,Python,1
+data scientist,WA,na,0,Python,1
+data scientist,MI,na,0,Python,1
+data scientist,MA,na,0,Python,1
+data scientist,CA,na,0,Python,1
+data scientist,MA,na,0,Python,1
+analyst,CA,na,0,Python,1
+data scientist,CA,na,0,Python,1
+data scientist,MA,na,0,Python,1
+data scientist,CA,senior,0,Python,1
+data engineer,NY,na,0,Python,1
+analyst,CA,na,0,Python,1
+data engineer,MA,na,0,Python,0
+data scientist,CA,na,0,Python,0
+other scientist,NJ,na,0,Python,0
+data scientist,IL,senior,0,Python,1
+data scientist,DC,na,0,Python,0
+data scientist,WA,senior,0,Python,1
+analyst,CO,na,0,Python,0
+other scientist,OH,na,0,Python,0
+data scientist,IL,na,0,Python,0
+data scientist,FL,na,0,Python,1
+data scientist,MA,na,0,Python,1
+analyst,AL,na,0,Python,1
+data scientist,NY,na,0,Python,1
+data scientist,CA,na,0,Python,0
+data scientist,NM,na,0,Python,1
+data scientist,CA,na,0,Python,1
+data scientist,MO,na,0,Python,1
+data scientist,MD,na,0,Python,0
+data scientist,TX,na,0,Python,1
+data scientist,OH,senior,0,Python,1
+data scientist,NY,na,0,Python,1
+data scientist,CA,senior,0,Python,0
+data scientist,WA,na,0,Python,0
+data scientist,PA,na,0,Python,1
+data scientist,MA,na,0,Python,1
+data scientist,GA,na,0,Python,1
+data scientist,MA,na,0,Python,1
+data scientist,PA,na,0,Python,1
+other scientist,WA,na,0,Python,0
+Consultant,IN,na,0,Python,1
+director,IL,na,0,Python,1
+other scientist,MO,na,0,Python,0
+data scientist,VA,senior,0,Python,1
+data scientist,PA,na,0,Python,1
+data scientist,WA,senior,0,Python,0
+data scientist,CA,na,0,Python,1
+other scientist,MA,na,0,Python,0
+data scientist,VA,na,0,Python,1
+data scientist,CA,na,0,Python,1
+data scientist,CA,na,0,Python,1
+analyst,PA,jr,0,Python,0
+data scientist,MD,na,0,Python,1
+analyst,IL,na,0,Python,0
+data engineer,VA,na,0,Python,1
+analyst,WA,na,0,Python,0
+data scientist,TX,na,0,Python,0
+data scientist,CA,na,0,Python,1
+data scientist,FL,na,0,Python,1
+other data,AL,na,0,Python,0
+analyst,LA,na,0,Python,0
+other scientist,CA,senior,0,Python,0
+data scientist,GA,na,0,Python,1
+other data,MD,na,0,Python,0
+analyst,MD,na,0,Python,0
+other scientist,MD,na,0,Python,0
+data scientist,VA,na,0,Python,1
+data scientist,VA,na,0,Python,1
+analyst,WI,na,0,Python,0
+data scientist,MD,senior,0,Python,1
+data scientist,NY,na,0,Python,1
+data scientist,NY,na,0,Python,1
+data scientist,TX,na,0,Python,1
+data scientist,DC,senior,0,Python,1
+data engineer,NC,na,0,Python,1
+data scientist,MI,senior,0,Python,1
+analyst,NJ,na,0,Python,0
+analyst,AZ,senior,0,Python,0
+other scientist,NE,na,0,Python,0
+data scientist,CA,na,0,Python,0
+data engineer,NJ,na,0,Python,1
+data scientist,MA,na,0,Python,1
+data scientist,NY,na,0,Python,1
+data scientist,CA,na,0,Python,0
+data engineer,CA,na,0,Python,1
+data scientist,IN,na,0,Python,0
+data scientist,MD,na,0,Python,1
+data engineer,MN,na,0,Python,0
+data scientist,CA,na,0,Python,1
+data engineer,NC,senior,0,Python,0
+data scientist,MA,na,0,Python,1
+data scientist,OH,na,0,Python,1
+data engineer,DC,na,0,Python,1
+data engineer,IL,na,0,Python,1
+analyst,MD,na,0,Python,0
+other scientist,AL,na,0,Python,0
+data scientist,CA,na,0,Python,0
+manager,MO,na,0,Python,1
+data scientist,VA,senior,0,Python,1
+data scientist,IL,na,0,Python,1
+data scientist,VA,senior,0,Python,1
+data scientist,TX,na,0,Python,1
+other scientist,CA,na,0,Python,0
+other scientist,CA,na,0,Python,0
+mle,CO,na,0,Python,1
+data scientist,NY,na,0,Python,1
+data scientist,VA,na,0,Python,0
+data scientist,CA,na,0,Python,1
+data engineer,FL,na,0,Python,0
+data engineer,IL,na,0,Python,0
+data scientist,CO,senior,0,Python,1
+data engineer,UT,na,0,Python,0
+analyst,CA,na,0,Python,0
+other scientist,PA,senior,0,Python,1
+data scientist,WA,na,0,Python,1
+data engineer,DC,na,0,Python,0
+data scientist,IL,na,0,Python,1
+data scientist,OH,senior,0,Python,1
+data engineer,TN,na,0,Python,0
+data scientist,WA,senior,0,Python,0
+analyst,FL,senior,0,Python,1
+other data,IN,senior,0,Python,1
+data engineer,MA,na,0,Python,1
+manager,NJ,na,0,Python,1
+data scientist,MA,senior,0,Python,1
+data scientist,CA,senior,0,Python,1
+data scientist,CA,senior,0,Python,1
+other scientist,MA,na,0,Python,0
+data scientist,MD,na,0,Python,1
+data scientist,CA,na,0,Python,1
+data scientist,TX,senior,0,Python,0
+data scientist,CA,na,0,Python,0
+data engineer,UT,na,0,Python,0
+other scientist,MA,senior,0,Python,1
+analyst,VA,senior,0,Python,1
+other scientist,PA,na,1,Python,0
+data scientist,WI,na,0,Python,1
+other scientist,MA,na,0,Python,0
+data scientist,CA,senior,0,Python,1
+manager,MI,na,0,Python,0
+data engineer,FL,na,0,Python,1
+analyst,CA,na,0,Python,0
+other scientist,CA,senior,0,Python,0
+analyst,NJ,senior,0,Python,1
+other scientist,MA,senior,0,Python,0
+data scientist,NJ,senior,0,Python,0
+data scientist,CA,senior,0,Python,1
+other scientist,DE,na,1,Python,0
+other scientist,MA,senior,0,Python,0
+data scientist,NY,senior,0,Python,1
+analyst,MO,na,0,Python,0
+mle,PA,na,0,Python,1
+other data,AZ,na,0,Python,1
+data scientist,CA,senior,0,Python,1
+analyst,AL,na,0,Python,1
+data scientist,MA,senior,0,Python,1
+other scientist,MA,na,0,Python,0
+mle,IL,senior,0,Python,1
+data scientist,UT,senior,0,Python,1
+data engineer,LA,na,0,Python,0
+other scientist,NY,senior,0,Python,0
+other data,MD,na,0,Python,0
+other scientist,MA,senior,0,Python,0
+mle,CA,na,0,Python,1
+other scientist,NY,senior,0,Python,0
+data engineer,CA,senior,0,Python,1
+analyst,CA,na,0,Python,0
+other scientist,TX,na,1,Python,0
+other scientist,IL,na,0,Python,0
+mle,PA,senior,0,Python,0
+manager,CA,na,0,Python,0
+data engineer,TN,senior,0,Python,1
+other scientist,DE,na,1,Python,0
+other scientist,WI,na,0,Python,0
+other scientist,MD,na,0,Python,0
+data engineer,IL,senior,0,Python,0
+data scientist,IL,na,0,Python,1
+data scientist,VA,na,0,Python,1
+data scientist,WI,senior,0,Python,0
+analyst,NY,na,0,Python,0
+other scientist,LA,na,1,Python,0
+data scientist,TX,na,0,Python,1
+analyst,FL,senior,0,Python,1
+manager,NJ,na,0,Python,1
+data engineer,MA,na,0,Python,1
+data scientist,IL,na,0,Python,0
+analyst,CA,na,0,Python,1
+data scientist,VA,na,0,Python,1
+analyst,OH,na,0,Python,0
+data scientist,MA,senior,0,Python,1
+data scientist,CA,senior,0,Python,1
+data scientist,CA,senior,0,Python,1
+analyst,CA,na,0,Python,0
+other scientist,MA,na,0,Python,0
+analyst,CA,na,0,Python,1
+analyst,ID,na,0,Python,1
+data scientist,CA,na,0,Python,1
+data scientist,MD,na,0,Python,1
+analyst,NJ,na,0,Python,0
+data scientist,IN,na,0,Python,0
+data engineer,UT,na,0,Python,0
+data scientist,MA,na,0,Python,1
+data scientist,KY,na,0,Python,1
+other data,NY,na,0,Python,1
+other scientist,MA,senior,0,Python,1
+data engineer,TN,na,0,Python,1
+data engineer,IL,na,0,Python,1
+analyst,VA,senior,0,Python,1
+data scientist,OR,na,0,Python,1
+analyst,MN,na,0,Python,1
+data scientist,NY,na,0,Python,0
+data scientist,TX,na,0,Python,1
+data scientist,WI,na,0,Python,1
+data scientist,CA,na,0,Python,0
+analyst,RI,senior,0,Python,0
+other scientist,NE,na,0,Python,0
+other scientist,PA,na,1,Python,0
+analyst,DC,na,0,Python,0
+data engineer,TX,na,0,Python,1
+data scientist,OH,na,0,Python,1
+data scientist,CA,senior,0,Python,1
+data scientist,NC,na,0,Python,1
+other scientist,MA,na,0,Python,0
+manager,MI,na,0,Python,0
+data scientist,CT,na,0,Python,0
+data scientist,VA,na,0,Python,1
+data scientist,PA,senior,0,Python,1
+data engineer,FL,na,0,Python,1
+data scientist,CA,na,0,Python,1
+other scientist,CA,senior,0,Python,0
+analyst,CA,na,0,Python,0
+other scientist,MA,senior,0,Python,0
+analyst,NJ,senior,0,Python,1
+analyst,ID,na,0,Python,0
+data scientist,CA,na,0,Python,1
+data scientist,TN,na,0,Python,1
+data scientist,CA,senior,0,Python,1
+data engineer,CA,na,0,Python,1
+data scientist,NJ,senior,0,Python,0
+data engineer,IA,na,0,Python,0
+other scientist,MA,senior,0,Python,0
+other scientist,DE,na,1,Python,0
+data scientist,NY,senior,0,Python,1
+data scientist,CA,na,0,Python,1
+analyst,NJ,na,0,Python,0
+analyst,MO,na,0,Python,0
+mle,PA,na,0,Python,1
+data scientist,NY,na,0,Python,1
+data scientist,OR,na,0,Python,1
+data scientist,MI,na,0,Python,1
+data scientist,DC,na,0,Python,1
+data scientist,CA,senior,0,Python,1
+data scientist,VA,senior,0,Python,1
+data scientist,CA,senior,0,Python,0
+other data,AZ,na,0,Python,1
+analyst,AL,na,0,Python,1
+other data,CA,na,0,Python,1
+data engineer,TX,na,0,Python,0
+data scientist,NY,senior,0,Python,1
+data engineer,MA,na,0,Python,1
+other scientist,SC,na,0,Python,0
+data scientist,MA,senior,0,Python,1
+other scientist,CA,na,0,Python,0
+analyst,MA,senior,0,Python,1
+mle,IL,senior,0,Python,1
+analyst,DC,na,0,Python,0
+data engineer,VA,na,0,Python,0
+data scientist,MA,senior,0,Python,0
+data engineer,CA,senior,0,Python,1
+other scientist,TX,na,0,Python,0
+other data,CA,senior,0,Python,1
+data engineer,IN,na,0,Python,1
+data scientist,MA,na,0,Python,1
+data scientist,CA,na,0,Python,1
+data scientist,TX,senior,0,Python,0
+other scientist,MA,na,0,Python,0
+analyst,VA,na,0,Python,0
+data engineer,LA,na,0,Python,0
+data scientist,WA,na,0,Python,1
+data engineer,MA,na,0,Python,1
+data scientist,UT,senior,0,Python,1
+other data,VA,na,0,Python,1
+other scientist,NY,senior,0,Python,0
+other scientist,MA,senior,0,Python,0
+data scientist,CA,na,0,Python,0
+analyst,FL,na,0,Python,0
+other data,MD,na,0,Python,0
+data engineer,VA,na,0,Python,1
+data engineer,TX,na,0,Python,0
+data engineer,DC,na,0,Python,0
+data scientist,NC,senior,0,Python,1
+data engineer,CA,na,0,Python,1
+analyst,PA,na,0,Python,1
+other scientist,NY,senior,0,Python,0
+analyst,VA,na,0,Python,0
+director,MA,na,0,Python,0
+data scientist,CA,na,0,Python,1
+data scientist,MA,na,0,Python,1
+mle,CA,na,0,Python,1
+analyst,IL,na,0,Python,1
+data engineer,CA,senior,0,Python,1
+other scientist,KY,na,0,Python,0
+manager,MA,na,0,Python,0
+Consultant,CT,na,0,Python,0
+data engineer,CA,na,0,Python,1
+analyst,CA,na,0,Python,0
+other scientist,MA,senior,0,Python,1
+other scientist,TX,na,1,Python,0
+mle,KS,na,0,Python,1
+other scientist,IL,na,0,Python,0
+data engineer,NY,na,0,Python,1
+other scientist,CA,na,0,Python,0
+data engineer,MA,na,0,Python,0
+mle,PA,senior,0,Python,0
+data scientist,IL,senior,0,Python,1
+other scientist,CO,na,1,Python,0
+manager,CA,na,0,Python,0
+data engineer,TN,senior,0,Python,1
+data scientist,CA,na,0,Python,0
+data scientist,NY,senior,0,Python,1
+data engineer,CO,na,0,Python,1
+other scientist,WI,na,0,Python,0
+data scientist,MA,senior,0,Python,1
+data engineer,MD,na,0,Python,0
+director,IL,na,0,Python,1
+other scientist,CA,na,0,Python,0
+other scientist,MD,na,0,Python,0
+other scientist,DE,na,1,Python,0
+other scientist,NC,na,0,Python,0
+analyst,OH,na,0,Python,0
+data engineer,IN,senior,0,Python,1
+data scientist,IL,senior,0,Python,1
+other data,VA,senior,0,Python,0
+other scientist,MA,na,1,Python,0
+other scientist,NC,senior,0,Python,0
+other scientist,CA,na,0,Python,0
+manager,CA,na,0,Python,0
+other scientist,NY,na,0,Python,0
+other scientist,GA,senior,0,Python,0
+data engineer,MA,na,0,Python,0
+other scientist,MA,na,0,Python,0
+other scientist,PA,na,0,Python,0
+data scientist,FL,na,0,Python,1
+data scientist,DC,na,0,Python,0
+other data,MA,na,0,Python,1
+data scientist,NY,senior,0,Python,0
+analyst,WI,na,0,Python,0
+data scientist,CA,senior,0,Python,1
+analyst,NY,na,0,Python,0
+data engineer,NC,senior,0,Python,1
+analyst,NY,senior,0,Python,1
+other data,IN,na,0,Python,1
+other scientist,CA,na,0,Python,0
+other data,MA,na,0,Python,1
+data engineer,AZ,senior,0,Python,0
+data engineer,VA,na,0,Python,1
+data scientist,FL,senior,0,Python,1
+Consultant,IL,na,0,Python,1
+other data,MO,na,0,Python,0
+data engineer,TX,senior,0,Python,1
+data scientist,MA,na,0,Python,0
+other scientist,MA,na,0,Python,0
+other scientist,MD,na,0,Python,0
+other scientist,KY,na,0,Python,0
+data engineer,IL,senior,0,Python,0
+data engineer,CA,senior,0,Python,1
+other data,CA,na,0,Python,1
+data scientist,OH,senior,0,Python,0
+data scientist,IL,na,0,Python,0
+data scientist,IL,senior,0,Python,1
+data engineer,IA,senior,0,Python,1
+data scientist,WA,senior,0,Python,0
+analyst,IA,na,0,Python,0
+director,MA,na,0,Python,0
+other scientist,MA,senior,0,Python,0
+analyst,PA,senior,0,Python,0
+data engineer,CA,senior,0,Python,1
+data scientist,WA,senior,0,Python,0
+other scientist,NE,na,1,Python,0
+analyst,TN,senior,1,Python,0
+director,IL,na,0,Python,1
+other scientist,TX,senior,0,Python,1
+data scientist,TX,na,0,Python,1
+other scientist,NC,senior,0,Python,0
+analyst,AL,na,0,Python,0
+other scientist,NC,senior,0,Python,0
+director,NJ,na,0,Python,1
+analyst,PA,senior,0,Python,0
+data engineer,CA,senior,0,Python,1
+data engineer,CA,senior,0,Python,0
+data scientist,NY,na,0,Python,1
+other scientist,NC,senior,0,Python,0
+data scientist,NM,na,0,Python,1
+data scientist,MO,na,0,Python,1
+data scientist,VA,na,0,Python,1
+data engineer,MA,na,0,Python,1
+data scientist,WA,na,0,Python,1
+data scientist,UT,senior,0,Python,1
+data scientist,NJ,na,0,Python,0
+mle,CA,senior,0,Python,1
+data scientist,CA,na,0,Python,1
+other data,VA,na,0,Python,1
+other scientist,NY,senior,0,Python,0
+data scientist,CA,na,0,Python,1
+data scientist,CA,na,0,Python,1
+data scientist,CA,na,0,Python,1
+data scientist,NY,na,0,Python,1
+data scientist,NY,na,0,Python,1
+data engineer,PA,na,0,Python,1
+other scientist,MA,senior,0,Python,0
+data scientist,CA,na,0,Python,0
+other data,MD,na,0,Python,0
+analyst,FL,na,0,Python,0
+data engineer,TX,na,0,Python,0
+data engineer,DC,na,0,Python,0
+data engineer,VA,na,0,Python,1
+data engineer,CA,na,0,Python,1
+data scientist,VA,na,0,Python,1
+data scientist,CA,na,0,Python,1
+data scientist,CA,na,0,Python,1
+data scientist,NC,senior,0,Python,1
+data scientist,CA,na,0,Python,1
+data scientist,CA,na,0,Python,1
+data scientist,VA,na,0,Python,1
+analyst,NY,na,0,Python,0
+data scientist,NY,na,0,Python,1
+data scientist,NY,na,0,Python,1
+data engineer,CA,na,0,Python,1
+data scientist,CA,na,0,Python,1
+data scientist,NY,na,0,Python,1
+data scientist,NY,na,0,Python,0
+data scientist,MA,na,0,Python,0
+data scientist,NY,na,0,Python,1
+data engineer,NY,na,0,Python,1
+analyst,PA,na,0,Python,1
+data scientist,MA,na,0,Python,1
+data scientist,NY,senior,0,Python,1
+other scientist,NY,senior,0,Python,0
+analyst,VA,na,0,Python,0
+data engineer,OR,na,0,Python,0
+director,MA,na,0,Python,0
+mle,CA,na,0,Python,1
+data scientist,CA,na,0,Python,0
+data scientist,WA,senior,0,Python,1
+data scientist,NY,senior,0,Python,1
+analyst,IL,na,0,Python,1
+data engineer,CA,senior,0,Python,1
+analyst,NY,na,0,Python,1
+other scientist,KY,na,0,Python,0
+Consultant,CT,na,0,Python,0
+manager,MA,na,0,Python,0
+analyst,NY,na,0,Python,0
+data engineer,CA,na,0,Python,1
+data scientist,NY,na,0,Python,1
+mle,VA,na,0,Python,1
+data scientist,MD,senior,0,Python,1
+data scientist,MD,na,0,Python,1
+data scientist,CA,senior,0,Python,1
+other scientist,MA,senior,0,Python,1
+mle,KS,na,0,Python,1
+analyst,CA,na,0,Python,0
+data engineer,TX,na,0,Python,1
+other scientist,TX,na,1,Python,0
+other scientist,IL,na,0,Python,0
+data scientist,CA,senior,0,Python,1
+data engineer,AZ,na,0,Python,1
+data scientist,NY,na,0,Python,0
+data scientist,MA,na,0,Python,1
+other scientist,MD,senior,0,Python,0
+data scientist,MA,na,0,Python,1
+data engineer,NY,na,0,Python,1
+other scientist,CA,na,0,Python,0
+data scientist,NY,na,0,Python,1
+data engineer,MA,na,0,Python,0
+mle,PA,senior,0,Python,0
+data scientist,NY,na,0,Python,1
+data scientist,IL,senior,0,Python,1
+data scientist,CA,senior,0,Python,0
+data scientist,NY,na,0,Python,1
+other scientist,CO,na,1,Python,0
+data engineer,NC,na,0,Python,1
+analyst,UT,na,0,Python,0
+data engineer,CA,na,0,Python,1
+other scientist,MA,na,0,Python,0
+data scientist,CA,senior,0,Python,1
+analyst,CA,na,0,Python,0
+analyst,NY,senior,0,Python,0
+manager,CA,na,0,Python,0
+other data,CA,na,0,Python,1
+data scientist,NY,senior,0,Python,1
+data engineer,TN,senior,0,Python,1
+data scientist,NY,na,0,Python,1
+data scientist,CO,senior,0,Python,1
+data engineer,CO,na,0,Python,1
+other scientist,WI,na,0,Python,0
+data engineer,TN,senior,0,Python,0
+data engineer,MD,na,0,Python,0
+data scientist,MA,senior,0,Python,1
+director,IL,na,0,Python,1
+mle,NY,na,0,Python,1
+other data,MA,senior,0,Python,1
+other scientist,CA,na,0,Python,0
+other scientist,MD,na,0,Python,0
+other scientist,DE,na,1,Python,0
+other scientist,NC,na,0,Python,0
+analyst,OH,na,0,Python,0
+analyst,MA,na,0,Python,0
+data engineer,IN,senior,0,Python,1
+analyst,FL,na,0,Python,0
+analyst,NY,na,0,Python,1
+data scientist,IL,senior,0,Python,1
+other data,VA,senior,0,Python,0
+other scientist,MA,na,1,Python,0
+other scientist,NC,senior,0,Python,0
+other scientist,CA,na,0,Python,0
+other scientist,NY,na,0,Python,0
+manager,CA,na,0,Python,0
+other scientist,GA,senior,0,Python,0
+data scientist,GA,na,0,Python,1
+data scientist,CA,na,0,Python,1
+data engineer,MA,na,0,Python,0
+other scientist,MA,na,0,Python,0
+analyst,CA,senior,0,Python,1
+other data,PA,senior,0,Python,0
+manager,MA,na,0,Python,0
+other scientist,MA,senior,0,Python,0
+data engineer,TN,senior,0,Python,1
+other scientist,PA,na,0,Python,0
+other scientist,OH,na,0,Python,1
+manager,PA,na,0,Python,0
+analyst,UT,na,0,Python,0
+other data,MA,na,0,Python,1
+analyst,UT,na,0,Python,1
+data engineer,AL,na,0,Python,1
+analyst,WI,na,0,Python,0
+data scientist,NY,senior,0,Python,0
+analyst,NY,na,0,Python,0
+analyst,VA,senior,0,Python,1
+analyst,NY,senior,0,Python,1
+data engineer,VA,senior,0,Python,1
+data engineer,NC,senior,0,Python,1
+other data,MA,na,0,Python,0
+other data,IN,na,0,Python,1
+data scientist,MA,na,0,Python,0
+data scientist,NY,na,0,Python,1
+manager,PA,na,0,Python,1
+other scientist,CA,na,0,Python,0
+data engineer,AZ,senior,0,Python,0
+data scientist,MA,senior,0,Python,0
+analyst,CA,senior,0,Python,0
+other data,MA,na,0,Python,1
+other scientist,MA,na,0,Python,0
+data scientist,FL,senior,0,Python,1
+data engineer,VA,na,0,Python,1
+data engineer,AZ,na,0,Python,1
+data scientist,CA,senior,0,Python,1
+other data,MO,na,0,Python,0
+data engineer,VA,na,0,Python,1
+Consultant,IL,na,0,Python,1
+data scientist,MA,na,0,Python,0
+data engineer,TX,senior,0,Python,1
+other scientist,MD,na,0,Python,0
+data engineer,IL,na,0,Python,1
+data engineer,IL,senior,0,Python,0
+other scientist,MA,na,0,Python,0
+manager,CA,na,0,Python,1
+other scientist,KY,na,0,Python,0
+data scientist,CA,na,0,Python,1
+data engineer,VA,na,0,Python,1
+data engineer,CA,na,0,Python,0
+data engineer,CA,senior,0,Python,1
+other data,CA,na,0,Python,1
+data scientist,OH,senior,0,Python,0
+data engineer,IA,senior,0,Python,1
+other scientist,CA,na,0,Python,0
+data scientist,WA,senior,0,Python,0
+analyst,IA,na,0,Python,0
+director,MA,na,0,Python,0
+director,MA,na,0,Python,0
+other scientist,MA,senior,0,Python,0
+analyst,PA,senior,0,Python,0
+other scientist,CA,senior,0,Python,0
+data engineer,CA,senior,0,Python,1
+manager,CA,na,0,Python,1
+data scientist,WA,senior,0,Python,0
+data engineer,IL,na,0,Python,1
+director,IL,na,0,Python,1
+other scientist,NE,na,1,Python,0
+analyst,TN,senior,1,Python,0
+analyst,NJ,senior,0,Python,1
+data scientist,TX,na,0,Python,1
+other scientist,TX,senior,0,Python,1
+other scientist,NC,senior,0,Python,0
+analyst,AL,na,0,Python,0
+other scientist,NC,senior,0,Python,0
+data scientist,PA,na,0,Python,1
+data scientist,MD,senior,0,Python,1
+director,NJ,na,0,Python,1
+data engineer,VA,na,0,Python,0
+analyst,PA,senior,0,Python,0
+data engineer,CA,senior,0,Python,1
+data engineer,CA,senior,0,Python,0
+analyst,NY,senior,0,Python,1
+other scientist,MA,senior,0,Python,0
+data scientist,NY,na,0,Python,1
+analyst,CA,na,0,Python,0
+other scientist,NC,senior,0,Python,0
+other scientist,MA,senior,0,Python,0
+mle,PA,na,0,Python,1
+analyst,WA,na,0,Python,0
+analyst,MD,senior,0,Python,0
+other scientist,MA,senior,0,Python,0
+analyst,PA,senior,0,Python,0
+other data,CA,senior,0,Python,1
+other scientist,MD,na,0,Python,0
+other scientist,MA,na,1,Python,0
+other scientist,MD,na,0,Python,1
+manager,MA,na,0,Python,0
+director,MA,na,0,Python,0
+data engineer,CA,senior,0,Python,0
+data scientist,CA,senior,0,Python,0
+data scientist,WA,na,0,Python,0
+Consultant,CT,na,0,Python,0
+other scientist,MD,na,0,Python,0
+analyst,NY,na,0,Python,0
+data engineer,CA,na,0,Python,1
+data scientist,NJ,na,0,Python,1
+data scientist,NY,na,0,Python,1
+data scientist,MO,na,0,Python,0
+mle,VA,na,0,Python,1
+data scientist,MD,na,0,Python,1
+data scientist,CA,senior,0,Python,1
+other scientist,MA,senior,0,Python,1
+analyst,CA,na,0,Python,0
+mle,KS,na,0,Python,1
+data engineer,TX,na,0,Python,1
+other scientist,TX,na,1,Python,0
+data scientist,CA,senior,0,Python,1
+other scientist,IL,na,0,Python,0
+data engineer,AZ,na,0,Python,1
+other scientist,MD,senior,0,Python,0
+data scientist,MA,na,0,Python,1
+data scientist,OH,senior,0,Python,1
+data scientist,VA,senior,0,Python,1
+data scientist,DC,na,0,Python,1
+other scientist,CA,na,0,Python,0
+data engineer,MA,na,0,Python,0
+data scientist,NY,na,0,Python,1
+data scientist,NY,na,0,Python,1
+data scientist,IL,senior,0,Python,1
+mle,PA,senior,0,Python,0
+data scientist,CA,senior,0,Python,0
+other scientist,CO,na,1,Python,0
+analyst,UT,na,0,Python,0
+data scientist,NY,na,0,Python,1
+data scientist,AZ,na,0,Python,1
+data scientist,CA,na,0,Python,1
+data engineer,NC,na,0,Python,1
+data engineer,CA,na,0,Python,1
+data scientist,CA,na,0,Python,1
+other scientist,MA,na,0,Python,0
+data scientist,CA,senior,0,Python,1
+data scientist,VA,jr,0,Python,1
+data scientist,MI,senior,0,Python,0
+analyst,CA,na,0,Python,0
+other data,NY,na,0,Python,0
+manager,CA,na,0,Python,0
+analyst,NY,senior,0,Python,0
+other data,CA,na,0,Python,1
+data scientist,MD,senior,0,Python,1
+data scientist,WA,na,0,Python,0
+data engineer,TN,senior,0,Python,1
+data scientist,NY,senior,0,Python,1
+data engineer,CO,na,0,Python,1
+other scientist,WI,na,0,Python,0
+data engineer,TN,senior,0,Python,0
+data engineer,MD,na,0,Python,0
+data scientist,MA,senior,0,Python,1
+director,IL,na,0,Python,1
+mle,NY,na,0,Python,1
+other data,MA,senior,0,Python,1
+other scientist,DE,na,1,Python,0
+other scientist,CA,na,0,Python,0
+other scientist,MD,na,0,Python,0
+data scientist,PA,na,0,Python,1
+other scientist,NC,na,0,Python,0
+other scientist,CA,senior,0,Python,0
+analyst,OH,na,0,Python,0
+data engineer,IN,senior,0,Python,1
+analyst,FL,na,0,Python,0
+analyst,MA,na,0,Python,0
+analyst,NY,na,0,Python,1
+data scientist,IL,senior,0,Python,1
+other data,VA,senior,0,Python,0
+other scientist,MA,na,1,Python,0
+other scientist,NC,senior,0,Python,0
+other scientist,CA,na,0,Python,0
+manager,CA,na,0,Python,0
+other scientist,GA,senior,0,Python,0
+other scientist,NY,na,0,Python,0
+other scientist,MA,na,0,Python,0
+data engineer,MA,na,0,Python,0
+mle,CA,na,0,Python,1
+analyst,CA,senior,0,Python,1
+manager,MA,na,0,Python,0
+data engineer,CA,na,0,Python,1
+other data,PA,senior,0,Python,0
+other scientist,MA,senior,0,Python,0
+data engineer,TN,senior,0,Python,1
+other scientist,PA,na,0,Python,0
+manager,PA,na,0,Python,0
+other scientist,OH,na,0,Python,1
+data scientist,NM,na,0,R,0
+data scientist,MD,na,0,R,0
+data scientist,FL,na,0,R,0
+data scientist,WA,na,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,TX,na,0,R,0
+data scientist,MD,na,0,R,0
+data scientist,CA,na,0,R,0
+other scientist,NY,na,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,VA,na,0,R,0
+data scientist,TX,na,0,R,0
+analyst,WA,na,0,R,0
+data scientist,MA,na,0,R,0
+data engineer,NJ,na,0,R,0
+other scientist,MA,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,CO,na,0,R,0
+data scientist,WA,na,0,R,0
+data scientist,TX,senior,0,R,0
+data scientist,IL,na,0,R,0
+data scientist,KY,na,0,R,0
+data scientist,VA,na,0,R,0
+data scientist,MA,na,0,R,0
+data scientist,OR,na,0,R,0
+analyst,MA,na,0,R,0
+data scientist,CT,na,0,R,0
+data scientist,FL,na,0,R,0
+data scientist,WA,na,0,R,0
+data scientist,MI,na,0,R,0
+data scientist,MA,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,MA,na,0,R,0
+analyst,CA,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,MA,na,0,R,0
+data scientist,CA,senior,0,R,0
+data engineer,NY,na,0,R,0
+analyst,CA,na,0,R,0
+data engineer,MA,na,0,R,0
+data scientist,CA,na,0,R,0
+other scientist,NJ,na,0,R,0
+data scientist,IL,senior,0,R,0
+data scientist,DC,na,0,R,0
+data scientist,WA,senior,0,R,0
+analyst,CO,na,0,R,0
+other scientist,OH,na,0,R,0
+data scientist,IL,na,0,R,0
+data scientist,FL,na,0,R,0
+data scientist,MA,na,0,R,0
+analyst,AL,na,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,NM,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,MO,na,0,R,0
+data scientist,MD,na,0,R,0
+data scientist,TX,na,0,R,0
+data scientist,OH,senior,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,CA,senior,0,R,0
+data scientist,WA,na,0,R,0
+data scientist,PA,na,0,R,0
+data scientist,MA,na,0,R,0
+data scientist,GA,na,0,R,0
+data scientist,MA,na,0,R,0
+data scientist,PA,na,0,R,0
+other scientist,WA,na,0,R,0
+Consultant,IN,na,0,R,0
+director,IL,na,0,R,0
+other scientist,MO,na,0,R,0
+data scientist,VA,senior,0,R,0
+data scientist,PA,na,0,R,0
+data scientist,WA,senior,0,R,0
+data scientist,CA,na,0,R,0
+other scientist,MA,na,0,R,0
+data scientist,VA,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,CA,na,0,R,0
+analyst,PA,jr,0,R,0
+data scientist,MD,na,0,R,0
+analyst,IL,na,0,R,0
+data engineer,VA,na,0,R,0
+analyst,WA,na,0,R,0
+data scientist,TX,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,FL,na,0,R,0
+other data,AL,na,0,R,0
+analyst,LA,na,0,R,0
+other scientist,CA,senior,0,R,0
+data scientist,GA,na,0,R,0
+other data,MD,na,0,R,0
+analyst,MD,na,0,R,0
+other scientist,MD,na,0,R,0
+data scientist,VA,na,0,R,0
+data scientist,VA,na,0,R,0
+analyst,WI,na,0,R,0
+data scientist,MD,senior,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,TX,na,0,R,0
+data scientist,DC,senior,0,R,0
+data engineer,NC,na,0,R,0
+data scientist,MI,senior,0,R,0
+analyst,NJ,na,0,R,0
+analyst,AZ,senior,0,R,0
+other scientist,NE,na,0,R,0
+data scientist,CA,na,0,R,0
+data engineer,NJ,na,0,R,0
+data scientist,MA,na,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,CA,na,0,R,0
+data engineer,CA,na,0,R,0
+data scientist,IN,na,0,R,0
+data scientist,MD,na,0,R,0
+data engineer,MN,na,0,R,0
+data scientist,CA,na,0,R,0
+data engineer,NC,senior,0,R,0
+data scientist,MA,na,0,R,0
+data scientist,OH,na,0,R,0
+data engineer,DC,na,0,R,0
+data engineer,IL,na,0,R,0
+analyst,MD,na,0,R,0
+other scientist,AL,na,0,R,0
+data scientist,CA,na,0,R,0
+manager,MO,na,0,R,0
+data scientist,VA,senior,0,R,0
+data scientist,IL,na,0,R,0
+data scientist,VA,senior,0,R,0
+data scientist,TX,na,0,R,0
+other scientist,CA,na,0,R,0
+other scientist,CA,na,0,R,0
+mle,CO,na,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,VA,na,0,R,0
+data scientist,CA,na,0,R,0
+data engineer,FL,na,0,R,0
+data engineer,IL,na,0,R,0
+data scientist,CO,senior,0,R,0
+data engineer,UT,na,0,R,0
+analyst,CA,na,0,R,0
+other scientist,PA,senior,0,R,0
+data scientist,WA,na,0,R,0
+data engineer,DC,na,0,R,0
+data scientist,IL,na,0,R,0
+data scientist,OH,senior,0,R,0
+data engineer,TN,na,0,R,0
+data scientist,WA,senior,0,R,0
+analyst,FL,senior,0,R,0
+other data,IN,senior,0,R,0
+data engineer,MA,na,0,R,0
+manager,NJ,na,0,R,0
+data scientist,MA,senior,0,R,0
+data scientist,CA,senior,0,R,0
+data scientist,CA,senior,0,R,0
+other scientist,MA,na,0,R,0
+data scientist,MD,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,TX,senior,0,R,0
+data scientist,CA,na,0,R,0
+data engineer,UT,na,0,R,0
+other scientist,MA,senior,0,R,0
+analyst,VA,senior,0,R,0
+other scientist,PA,na,1,R,0
+data scientist,WI,na,0,R,0
+other scientist,MA,na,0,R,0
+data scientist,CA,senior,0,R,0
+manager,MI,na,0,R,0
+data engineer,FL,na,0,R,0
+analyst,CA,na,0,R,0
+other scientist,CA,senior,0,R,0
+analyst,NJ,senior,0,R,0
+other scientist,MA,senior,0,R,0
+data scientist,NJ,senior,0,R,0
+data scientist,CA,senior,0,R,0
+other scientist,DE,na,1,R,0
+other scientist,MA,senior,0,R,0
+data scientist,NY,senior,0,R,0
+analyst,MO,na,0,R,0
+mle,PA,na,0,R,0
+other data,AZ,na,0,R,0
+data scientist,CA,senior,0,R,0
+analyst,AL,na,0,R,0
+data scientist,MA,senior,0,R,0
+other scientist,MA,na,0,R,0
+mle,IL,senior,0,R,0
+data scientist,UT,senior,0,R,0
+data engineer,LA,na,0,R,0
+other scientist,NY,senior,0,R,0
+other data,MD,na,0,R,0
+other scientist,MA,senior,0,R,0
+mle,CA,na,0,R,0
+other scientist,NY,senior,0,R,0
+data engineer,CA,senior,0,R,0
+analyst,CA,na,0,R,0
+other scientist,TX,na,1,R,0
+other scientist,IL,na,0,R,0
+mle,PA,senior,0,R,0
+manager,CA,na,0,R,0
+data engineer,TN,senior,0,R,0
+other scientist,DE,na,1,R,0
+other scientist,WI,na,0,R,0
+other scientist,MD,na,0,R,0
+data engineer,IL,senior,0,R,0
+data scientist,IL,na,0,R,0
+data scientist,VA,na,0,R,0
+data scientist,WI,senior,0,R,0
+analyst,NY,na,0,R,0
+other scientist,LA,na,1,R,0
+data scientist,TX,na,0,R,0
+analyst,FL,senior,0,R,0
+manager,NJ,na,0,R,0
+data engineer,MA,na,0,R,0
+data scientist,IL,na,0,R,0
+analyst,CA,na,0,R,1
+data scientist,VA,na,0,R,0
+analyst,OH,na,0,R,0
+data scientist,MA,senior,0,R,0
+data scientist,CA,senior,0,R,0
+data scientist,CA,senior,0,R,0
+analyst,CA,na,0,R,0
+other scientist,MA,na,0,R,0
+analyst,CA,na,0,R,0
+analyst,ID,na,0,R,1
+data scientist,CA,na,0,R,0
+data scientist,MD,na,0,R,0
+analyst,NJ,na,0,R,0
+data scientist,IN,na,0,R,0
+data engineer,UT,na,0,R,0
+data scientist,MA,na,0,R,0
+data scientist,KY,na,0,R,0
+other data,NY,na,0,R,0
+other scientist,MA,senior,0,R,0
+data engineer,TN,na,0,R,0
+data engineer,IL,na,0,R,0
+analyst,VA,senior,0,R,0
+data scientist,OR,na,0,R,0
+analyst,MN,na,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,TX,na,0,R,0
+data scientist,WI,na,0,R,0
+data scientist,CA,na,0,R,0
+analyst,RI,senior,0,R,0
+other scientist,NE,na,0,R,0
+other scientist,PA,na,1,R,0
+analyst,DC,na,0,R,0
+data engineer,TX,na,0,R,0
+data scientist,OH,na,0,R,0
+data scientist,CA,senior,0,R,0
+data scientist,NC,na,0,R,0
+other scientist,MA,na,0,R,0
+manager,MI,na,0,R,0
+data scientist,CT,na,0,R,0
+data scientist,VA,na,0,R,0
+data scientist,PA,senior,0,R,0
+data engineer,FL,na,0,R,0
+data scientist,CA,na,0,R,0
+other scientist,CA,senior,0,R,0
+analyst,CA,na,0,R,0
+other scientist,MA,senior,0,R,0
+analyst,NJ,senior,0,R,0
+analyst,ID,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,TN,na,0,R,0
+data scientist,CA,senior,0,R,0
+data engineer,CA,na,0,R,0
+data scientist,NJ,senior,0,R,0
+data engineer,IA,na,0,R,0
+other scientist,MA,senior,0,R,0
+other scientist,DE,na,1,R,0
+data scientist,NY,senior,0,R,0
+data scientist,CA,na,0,R,0
+analyst,NJ,na,0,R,0
+analyst,MO,na,0,R,0
+mle,PA,na,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,OR,na,0,R,0
+data scientist,MI,na,0,R,0
+data scientist,DC,na,0,R,0
+data scientist,CA,senior,0,R,0
+data scientist,VA,senior,0,R,0
+data scientist,CA,senior,0,R,0
+other data,AZ,na,0,R,0
+analyst,AL,na,0,R,0
+other data,CA,na,0,R,0
+data engineer,TX,na,0,R,0
+data scientist,NY,senior,0,R,0
+data engineer,MA,na,0,R,0
+other scientist,SC,na,0,R,0
+data scientist,MA,senior,0,R,0
+other scientist,CA,na,0,R,0
+analyst,MA,senior,0,R,0
+mle,IL,senior,0,R,0
+analyst,DC,na,0,R,0
+data engineer,VA,na,0,R,0
+data scientist,MA,senior,0,R,0
+data engineer,CA,senior,0,R,0
+other scientist,TX,na,0,R,0
+other data,CA,senior,0,R,0
+data engineer,IN,na,0,R,0
+data scientist,MA,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,TX,senior,0,R,0
+other scientist,MA,na,0,R,0
+analyst,VA,na,0,R,0
+data engineer,LA,na,0,R,0
+data scientist,WA,na,0,R,0
+data engineer,MA,na,0,R,0
+data scientist,UT,senior,0,R,0
+other data,VA,na,0,R,0
+other scientist,NY,senior,0,R,0
+other scientist,MA,senior,0,R,0
+data scientist,CA,na,0,R,0
+analyst,FL,na,0,R,0
+other data,MD,na,0,R,0
+data engineer,VA,na,0,R,0
+data engineer,TX,na,0,R,0
+data engineer,DC,na,0,R,0
+data scientist,NC,senior,0,R,0
+data engineer,CA,na,0,R,0
+analyst,PA,na,0,R,0
+other scientist,NY,senior,0,R,0
+analyst,VA,na,0,R,0
+director,MA,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,MA,na,0,R,0
+mle,CA,na,0,R,0
+analyst,IL,na,0,R,0
+data engineer,CA,senior,0,R,0
+other scientist,KY,na,0,R,0
+manager,MA,na,0,R,0
+Consultant,CT,na,0,R,0
+data engineer,CA,na,0,R,0
+analyst,CA,na,0,R,0
+other scientist,MA,senior,0,R,0
+other scientist,TX,na,1,R,0
+mle,KS,na,0,R,0
+other scientist,IL,na,0,R,0
+data engineer,NY,na,0,R,0
+other scientist,CA,na,0,R,0
+data engineer,MA,na,0,R,0
+mle,PA,senior,0,R,0
+data scientist,IL,senior,0,R,0
+other scientist,CO,na,1,R,0
+manager,CA,na,0,R,0
+data engineer,TN,senior,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,NY,senior,0,R,0
+data engineer,CO,na,0,R,0
+other scientist,WI,na,0,R,0
+data scientist,MA,senior,0,R,0
+data engineer,MD,na,0,R,0
+director,IL,na,0,R,0
+other scientist,CA,na,0,R,0
+other scientist,MD,na,0,R,0
+other scientist,DE,na,1,R,0
+other scientist,NC,na,0,R,0
+analyst,OH,na,0,R,0
+data engineer,IN,senior,0,R,0
+data scientist,IL,senior,0,R,0
+other data,VA,senior,0,R,0
+other scientist,MA,na,1,R,0
+other scientist,NC,senior,0,R,0
+other scientist,CA,na,0,R,0
+manager,CA,na,0,R,0
+other scientist,NY,na,0,R,0
+other scientist,GA,senior,0,R,0
+data engineer,MA,na,0,R,0
+other scientist,MA,na,0,R,0
+other scientist,PA,na,0,R,0
+data scientist,FL,na,0,R,0
+data scientist,DC,na,0,R,0
+other data,MA,na,0,R,0
+data scientist,NY,senior,0,R,0
+analyst,WI,na,0,R,0
+data scientist,CA,senior,0,R,0
+analyst,NY,na,0,R,0
+data engineer,NC,senior,0,R,0
+analyst,NY,senior,0,R,0
+other data,IN,na,0,R,0
+other scientist,CA,na,0,R,0
+other data,MA,na,0,R,0
+data engineer,AZ,senior,0,R,0
+data engineer,VA,na,0,R,0
+data scientist,FL,senior,0,R,0
+Consultant,IL,na,0,R,0
+other data,MO,na,0,R,0
+data engineer,TX,senior,0,R,0
+data scientist,MA,na,0,R,0
+other scientist,MA,na,0,R,0
+other scientist,MD,na,0,R,0
+other scientist,KY,na,0,R,0
+data engineer,IL,senior,0,R,0
+data engineer,CA,senior,0,R,0
+other data,CA,na,0,R,0
+data scientist,OH,senior,0,R,0
+data scientist,IL,na,0,R,0
+data scientist,IL,senior,0,R,0
+data engineer,IA,senior,0,R,0
+data scientist,WA,senior,0,R,0
+analyst,IA,na,0,R,0
+director,MA,na,0,R,0
+other scientist,MA,senior,0,R,0
+analyst,PA,senior,0,R,0
+data engineer,CA,senior,0,R,0
+data scientist,WA,senior,0,R,0
+other scientist,NE,na,1,R,0
+analyst,TN,senior,1,R,0
+director,IL,na,0,R,0
+other scientist,TX,senior,0,R,0
+data scientist,TX,na,0,R,0
+other scientist,NC,senior,0,R,0
+analyst,AL,na,0,R,0
+other scientist,NC,senior,0,R,0
+director,NJ,na,0,R,0
+analyst,PA,senior,0,R,0
+data engineer,CA,senior,0,R,0
+data engineer,CA,senior,0,R,0
+data scientist,NY,na,0,R,0
+other scientist,NC,senior,0,R,0
+data scientist,NM,na,0,R,0
+data scientist,MO,na,0,R,0
+data scientist,VA,na,0,R,0
+data engineer,MA,na,0,R,0
+data scientist,WA,na,0,R,0
+data scientist,UT,senior,0,R,0
+data scientist,NJ,na,0,R,0
+mle,CA,senior,0,R,0
+data scientist,CA,na,0,R,0
+other data,VA,na,0,R,0
+other scientist,NY,senior,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,NY,na,0,R,0
+data engineer,PA,na,0,R,0
+other scientist,MA,senior,0,R,0
+data scientist,CA,na,0,R,0
+other data,MD,na,0,R,0
+analyst,FL,na,0,R,0
+data engineer,TX,na,0,R,0
+data engineer,DC,na,0,R,0
+data engineer,VA,na,0,R,0
+data engineer,CA,na,0,R,0
+data scientist,VA,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,NC,senior,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,VA,na,0,R,0
+analyst,NY,na,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,NY,na,0,R,0
+data engineer,CA,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,MA,na,0,R,0
+data scientist,NY,na,0,R,0
+data engineer,NY,na,0,R,0
+analyst,PA,na,0,R,0
+data scientist,MA,na,0,R,0
+data scientist,NY,senior,0,R,0
+other scientist,NY,senior,0,R,0
+analyst,VA,na,0,R,0
+data engineer,OR,na,0,R,0
+director,MA,na,0,R,0
+mle,CA,na,0,R,0
+data scientist,CA,na,0,R,0
+data scientist,WA,senior,0,R,0
+data scientist,NY,senior,0,R,0
+analyst,IL,na,0,R,0
+data engineer,CA,senior,0,R,0
+analyst,NY,na,0,R,0
+other scientist,KY,na,0,R,0
+Consultant,CT,na,0,R,0
+manager,MA,na,0,R,0
+analyst,NY,na,0,R,0
+data engineer,CA,na,0,R,0
+data scientist,NY,na,0,R,0
+mle,VA,na,0,R,0
+data scientist,MD,senior,0,R,0
+data scientist,MD,na,0,R,0
+data scientist,CA,senior,0,R,0
+other scientist,MA,senior,0,R,0
+mle,KS,na,0,R,0
+analyst,CA,na,0,R,0
+data engineer,TX,na,0,R,0
+other scientist,TX,na,1,R,0
+other scientist,IL,na,0,R,0
+data scientist,CA,senior,0,R,0
+data engineer,AZ,na,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,MA,na,0,R,0
+other scientist,MD,senior,0,R,0
+data scientist,MA,na,0,R,0
+data engineer,NY,na,0,R,0
+other scientist,CA,na,0,R,0
+data scientist,NY,na,0,R,0
+data engineer,MA,na,0,R,0
+mle,PA,senior,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,IL,senior,0,R,0
+data scientist,CA,senior,0,R,0
+data scientist,NY,na,0,R,0
+other scientist,CO,na,1,R,0
+data engineer,NC,na,0,R,0
+analyst,UT,na,0,R,0
+data engineer,CA,na,0,R,0
+other scientist,MA,na,0,R,0
+data scientist,CA,senior,0,R,0
+analyst,CA,na,0,R,0
+analyst,NY,senior,0,R,0
+manager,CA,na,0,R,0
+other data,CA,na,0,R,0
+data scientist,NY,senior,0,R,0
+data engineer,TN,senior,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,CO,senior,0,R,0
+data engineer,CO,na,0,R,0
+other scientist,WI,na,0,R,0
+data engineer,TN,senior,0,R,0
+data engineer,MD,na,0,R,0
+data scientist,MA,senior,0,R,0
+director,IL,na,0,R,0
+mle,NY,na,0,R,0
+other data,MA,senior,0,R,0
+other scientist,CA,na,0,R,0
+other scientist,MD,na,0,R,0
+other scientist,DE,na,1,R,0
+other scientist,NC,na,0,R,0
+analyst,OH,na,0,R,0
+analyst,MA,na,0,R,0
+data engineer,IN,senior,0,R,0
+analyst,FL,na,0,R,0
+analyst,NY,na,0,R,0
+data scientist,IL,senior,0,R,0
+other data,VA,senior,0,R,0
+other scientist,MA,na,1,R,0
+other scientist,NC,senior,0,R,0
+other scientist,CA,na,0,R,0
+other scientist,NY,na,0,R,0
+manager,CA,na,0,R,0
+other scientist,GA,senior,0,R,0
+data scientist,GA,na,0,R,0
+data scientist,CA,na,0,R,0
+data engineer,MA,na,0,R,0
+other scientist,MA,na,0,R,0
+analyst,CA,senior,0,R,0
+other data,PA,senior,0,R,0
+manager,MA,na,0,R,0
+other scientist,MA,senior,0,R,0
+data engineer,TN,senior,0,R,0
+other scientist,PA,na,0,R,0
+other scientist,OH,na,0,R,0
+manager,PA,na,0,R,0
+analyst,UT,na,0,R,0
+other data,MA,na,0,R,0
+analyst,UT,na,0,R,0
+data engineer,AL,na,0,R,0
+analyst,WI,na,0,R,0
+data scientist,NY,senior,0,R,0
+analyst,NY,na,0,R,0
+analyst,VA,senior,0,R,0
+analyst,NY,senior,0,R,0
+data engineer,VA,senior,0,R,0
+data engineer,NC,senior,0,R,0
+other data,MA,na,0,R,0
+other data,IN,na,0,R,0
+data scientist,MA,na,0,R,0
+data scientist,NY,na,0,R,0
+manager,PA,na,0,R,0
+other scientist,CA,na,0,R,0
+data engineer,AZ,senior,0,R,0
+data scientist,MA,senior,0,R,0
+analyst,CA,senior,0,R,0
+other data,MA,na,0,R,0
+other scientist,MA,na,0,R,0
+data scientist,FL,senior,0,R,0
+data engineer,VA,na,0,R,0
+data engineer,AZ,na,0,R,0
+data scientist,CA,senior,0,R,0
+other data,MO,na,0,R,0
+data engineer,VA,na,0,R,0
+Consultant,IL,na,0,R,0
+data scientist,MA,na,0,R,0
+data engineer,TX,senior,0,R,0
+other scientist,MD,na,0,R,0
+data engineer,IL,na,0,R,0
+data engineer,IL,senior,0,R,0
+other scientist,MA,na,0,R,0
+manager,CA,na,0,R,0
+other scientist,KY,na,0,R,0
+data scientist,CA,na,0,R,0
+data engineer,VA,na,0,R,0
+data engineer,CA,na,0,R,0
+data engineer,CA,senior,0,R,0
+other data,CA,na,0,R,0
+data scientist,OH,senior,0,R,0
+data engineer,IA,senior,0,R,0
+other scientist,CA,na,0,R,0
+data scientist,WA,senior,0,R,0
+analyst,IA,na,0,R,0
+director,MA,na,0,R,0
+director,MA,na,0,R,0
+other scientist,MA,senior,0,R,0
+analyst,PA,senior,0,R,0
+other scientist,CA,senior,0,R,0
+data engineer,CA,senior,0,R,0
+manager,CA,na,0,R,0
+data scientist,WA,senior,0,R,0
+data engineer,IL,na,0,R,0
+director,IL,na,0,R,0
+other scientist,NE,na,1,R,0
+analyst,TN,senior,1,R,0
+analyst,NJ,senior,0,R,0
+data scientist,TX,na,0,R,0
+other scientist,TX,senior,0,R,0
+other scientist,NC,senior,0,R,0
+analyst,AL,na,0,R,0
+other scientist,NC,senior,0,R,0
+data scientist,PA,na,0,R,0
+data scientist,MD,senior,0,R,0
+director,NJ,na,0,R,0
+data engineer,VA,na,0,R,0
+analyst,PA,senior,0,R,0
+data engineer,CA,senior,0,R,0
+data engineer,CA,senior,0,R,0
+analyst,NY,senior,0,R,0
+other scientist,MA,senior,0,R,0
+data scientist,NY,na,0,R,0
+analyst,CA,na,0,R,0
+other scientist,NC,senior,0,R,0
+other scientist,MA,senior,0,R,0
+mle,PA,na,0,R,0
+analyst,WA,na,0,R,0
+analyst,MD,senior,0,R,0
+other scientist,MA,senior,0,R,0
+analyst,PA,senior,0,R,0
+other data,CA,senior,0,R,0
+other scientist,MD,na,0,R,0
+other scientist,MA,na,1,R,0
+other scientist,MD,na,0,R,0
+manager,MA,na,0,R,0
+director,MA,na,0,R,0
+data engineer,CA,senior,0,R,0
+data scientist,CA,senior,0,R,0
+data scientist,WA,na,0,R,0
+Consultant,CT,na,0,R,0
+other scientist,MD,na,0,R,0
+analyst,NY,na,0,R,0
+data engineer,CA,na,0,R,0
+data scientist,NJ,na,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,MO,na,0,R,0
+mle,VA,na,0,R,0
+data scientist,MD,na,0,R,0
+data scientist,CA,senior,0,R,0
+other scientist,MA,senior,0,R,0
+analyst,CA,na,0,R,0
+mle,KS,na,0,R,0
+data engineer,TX,na,0,R,0
+other scientist,TX,na,1,R,0
+data scientist,CA,senior,0,R,0
+other scientist,IL,na,0,R,0
+data engineer,AZ,na,0,R,0
+other scientist,MD,senior,0,R,0
+data scientist,MA,na,0,R,0
+data scientist,OH,senior,0,R,0
+data scientist,VA,senior,0,R,0
+data scientist,DC,na,0,R,0
+other scientist,CA,na,0,R,0
+data engineer,MA,na,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,IL,senior,0,R,0
+mle,PA,senior,0,R,0
+data scientist,CA,senior,0,R,0
+other scientist,CO,na,1,R,0
+analyst,UT,na,0,R,0
+data scientist,NY,na,0,R,0
+data scientist,AZ,na,0,R,0
+data scientist,CA,na,0,R,0
+data engineer,NC,na,0,R,0
+data engineer,CA,na,0,R,0
+data scientist,CA,na,0,R,0
+other scientist,MA,na,0,R,0
+data scientist,CA,senior,0,R,0
+data scientist,VA,jr,0,R,0
+data scientist,MI,senior,0,R,0
+analyst,CA,na,0,R,0
+other data,NY,na,0,R,0
+manager,CA,na,0,R,0
+analyst,NY,senior,0,R,0
+other data,CA,na,0,R,0
+data scientist,MD,senior,0,R,0
+data scientist,WA,na,0,R,0
+data engineer,TN,senior,0,R,0
+data scientist,NY,senior,0,R,0
+data engineer,CO,na,0,R,0
+other scientist,WI,na,0,R,0
+data engineer,TN,senior,0,R,0
+data engineer,MD,na,0,R,0
+data scientist,MA,senior,0,R,0
+director,IL,na,0,R,0
+mle,NY,na,0,R,0
+other data,MA,senior,0,R,0
+other scientist,DE,na,1,R,0
+other scientist,CA,na,0,R,0
+other scientist,MD,na,0,R,0
+data scientist,PA,na,0,R,0
+other scientist,NC,na,0,R,0
+other scientist,CA,senior,0,R,0
+analyst,OH,na,0,R,0
+data engineer,IN,senior,0,R,0
+analyst,FL,na,0,R,0
+analyst,MA,na,0,R,0
+analyst,NY,na,0,R,0
+data scientist,IL,senior,0,R,0
+other data,VA,senior,0,R,0
+other scientist,MA,na,1,R,0
+other scientist,NC,senior,0,R,0
+other scientist,CA,na,0,R,0
+manager,CA,na,0,R,0
+other scientist,GA,senior,0,R,0
+other scientist,NY,na,0,R,0
+other scientist,MA,na,0,R,0
+data engineer,MA,na,0,R,0
+mle,CA,na,0,R,0
+analyst,CA,senior,0,R,0
+manager,MA,na,0,R,0
+data engineer,CA,na,0,R,0
+other data,PA,senior,0,R,0
+other scientist,MA,senior,0,R,0
+data engineer,TN,senior,0,R,0
+other scientist,PA,na,0,R,0
+manager,PA,na,0,R,0
+other scientist,OH,na,0,R,0
+data scientist,NM,na,0,Spark,0
+data scientist,MD,na,0,Spark,0
+data scientist,FL,na,0,Spark,1
+data scientist,WA,na,0,Spark,0
+data scientist,NY,na,0,Spark,0
+data scientist,TX,na,0,Spark,0
+data scientist,MD,na,0,Spark,0
+data scientist,CA,na,0,Spark,1
+other scientist,NY,na,0,Spark,0
+data scientist,NY,na,0,Spark,1
+data scientist,CA,na,0,Spark,0
+data scientist,VA,na,0,Spark,0
+data scientist,TX,na,0,Spark,0
+analyst,WA,na,0,Spark,1
+data scientist,MA,na,0,Spark,1
+data engineer,NJ,na,0,Spark,0
+other scientist,MA,na,0,Spark,0
+data scientist,CA,na,0,Spark,1
+data scientist,CA,na,0,Spark,0
+data scientist,CO,na,0,Spark,0
+data scientist,WA,na,0,Spark,1
+data scientist,TX,senior,0,Spark,0
+data scientist,IL,na,0,Spark,0
+data scientist,KY,na,0,Spark,0
+data scientist,VA,na,0,Spark,0
+data scientist,MA,na,0,Spark,0
+data scientist,OR,na,0,Spark,1
+analyst,MA,na,0,Spark,0
+data scientist,CT,na,0,Spark,0
+data scientist,FL,na,0,Spark,1
+data scientist,WA,na,0,Spark,0
+data scientist,MI,na,0,Spark,0
+data scientist,MA,na,0,Spark,0
+data scientist,CA,na,0,Spark,1
+data scientist,MA,na,0,Spark,0
+analyst,CA,na,0,Spark,0
+data scientist,CA,na,0,Spark,1
+data scientist,MA,na,0,Spark,1
+data scientist,CA,senior,0,Spark,0
+data engineer,NY,na,0,Spark,0
+analyst,CA,na,0,Spark,0
+data engineer,MA,na,0,Spark,0
+data scientist,CA,na,0,Spark,0
+other scientist,NJ,na,0,Spark,0
+data scientist,IL,senior,0,Spark,1
+data scientist,DC,na,0,Spark,0
+data scientist,WA,senior,0,Spark,0
+analyst,CO,na,0,Spark,0
+other scientist,OH,na,0,Spark,0
+data scientist,IL,na,0,Spark,0
+data scientist,FL,na,0,Spark,0
+data scientist,MA,na,0,Spark,0
+analyst,AL,na,0,Spark,0
+data scientist,NY,na,0,Spark,0
+data scientist,CA,na,0,Spark,0
+data scientist,NM,na,0,Spark,0
+data scientist,CA,na,0,Spark,1
+data scientist,MO,na,0,Spark,1
+data scientist,MD,na,0,Spark,0
+data scientist,TX,na,0,Spark,0
+data scientist,OH,senior,0,Spark,0
+data scientist,NY,na,0,Spark,1
+data scientist,CA,senior,0,Spark,0
+data scientist,WA,na,0,Spark,0
+data scientist,PA,na,0,Spark,0
+data scientist,MA,na,0,Spark,0
+data scientist,GA,na,0,Spark,0
+data scientist,MA,na,0,Spark,0
+data scientist,PA,na,0,Spark,1
+other scientist,WA,na,0,Spark,0
+Consultant,IN,na,0,Spark,0
+director,IL,na,0,Spark,0
+other scientist,MO,na,0,Spark,0
+data scientist,VA,senior,0,Spark,1
+data scientist,PA,na,0,Spark,0
+data scientist,WA,senior,0,Spark,1
+data scientist,CA,na,0,Spark,1
+other scientist,MA,na,0,Spark,0
+data scientist,VA,na,0,Spark,0
+data scientist,CA,na,0,Spark,0
+data scientist,CA,na,0,Spark,0
+analyst,PA,jr,0,Spark,0
+data scientist,MD,na,0,Spark,0
+analyst,IL,na,0,Spark,0
+data engineer,VA,na,0,Spark,0
+analyst,WA,na,0,Spark,0
+data scientist,TX,na,0,Spark,0
+data scientist,CA,na,0,Spark,1
+data scientist,FL,na,0,Spark,1
+other data,AL,na,0,Spark,0
+analyst,LA,na,0,Spark,0
+other scientist,CA,senior,0,Spark,0
+data scientist,GA,na,0,Spark,1
+other data,MD,na,0,Spark,0
+analyst,MD,na,0,Spark,0
+other scientist,MD,na,0,Spark,0
+data scientist,VA,na,0,Spark,0
+data scientist,VA,na,0,Spark,0
+analyst,WI,na,0,Spark,0
+data scientist,MD,senior,0,Spark,0
+data scientist,NY,na,0,Spark,1
+data scientist,NY,na,0,Spark,0
+data scientist,TX,na,0,Spark,0
+data scientist,DC,senior,0,Spark,0
+data engineer,NC,na,0,Spark,1
+data scientist,MI,senior,0,Spark,1
+analyst,NJ,na,0,Spark,0
+analyst,AZ,senior,0,Spark,0
+other scientist,NE,na,0,Spark,0
+data scientist,CA,na,0,Spark,1
+data engineer,NJ,na,0,Spark,0
+data scientist,MA,na,0,Spark,1
+data scientist,NY,na,0,Spark,1
+data scientist,CA,na,0,Spark,1
+data engineer,CA,na,0,Spark,1
+data scientist,IN,na,0,Spark,0
+data scientist,MD,na,0,Spark,0
+data engineer,MN,na,0,Spark,1
+data scientist,CA,na,0,Spark,1
+data engineer,NC,senior,0,Spark,1
+data scientist,MA,na,0,Spark,0
+data scientist,OH,na,0,Spark,0
+data engineer,DC,na,0,Spark,1
+data engineer,IL,na,0,Spark,1
+analyst,MD,na,0,Spark,0
+other scientist,AL,na,0,Spark,0
+data scientist,CA,na,0,Spark,0
+manager,MO,na,0,Spark,0
+data scientist,VA,senior,0,Spark,1
+data scientist,IL,na,0,Spark,0
+data scientist,VA,senior,0,Spark,0
+data scientist,TX,na,0,Spark,0
+other scientist,CA,na,0,Spark,0
+other scientist,CA,na,0,Spark,0
+mle,CO,na,0,Spark,1
+data scientist,NY,na,0,Spark,1
+data scientist,VA,na,0,Spark,0
+data scientist,CA,na,0,Spark,1
+data engineer,FL,na,0,Spark,0
+data engineer,IL,na,0,Spark,1
+data scientist,CO,senior,0,Spark,0
+data engineer,UT,na,0,Spark,0
+analyst,CA,na,0,Spark,0
+other scientist,PA,senior,0,Spark,0
+data scientist,WA,na,0,Spark,0
+data engineer,DC,na,0,Spark,0
+data scientist,IL,na,0,Spark,1
+data scientist,OH,senior,0,Spark,0
+data engineer,TN,na,0,Spark,0
+data scientist,WA,senior,0,Spark,0
+analyst,FL,senior,0,Spark,0
+other data,IN,senior,0,Spark,1
+data engineer,MA,na,0,Spark,1
+manager,NJ,na,0,Spark,0
+data scientist,MA,senior,0,Spark,1
+data scientist,CA,senior,0,Spark,1
+data scientist,CA,senior,0,Spark,1
+other scientist,MA,na,0,Spark,0
+data scientist,MD,na,0,Spark,0
+data scientist,CA,na,0,Spark,0
+data scientist,TX,senior,0,Spark,0
+data scientist,CA,na,0,Spark,0
+data engineer,UT,na,0,Spark,0
+other scientist,MA,senior,0,Spark,0
+analyst,VA,senior,0,Spark,0
+other scientist,PA,na,1,Spark,0
+data scientist,WI,na,0,Spark,0
+other scientist,MA,na,0,Spark,0
+data scientist,CA,senior,0,Spark,1
+manager,MI,na,0,Spark,0
+data engineer,FL,na,0,Spark,1
+analyst,CA,na,0,Spark,0
+other scientist,CA,senior,0,Spark,0
+analyst,NJ,senior,0,Spark,0
+other scientist,MA,senior,0,Spark,0
+data scientist,NJ,senior,0,Spark,0
+data scientist,CA,senior,0,Spark,0
+other scientist,DE,na,1,Spark,0
+other scientist,MA,senior,0,Spark,0
+data scientist,NY,senior,0,Spark,1
+analyst,MO,na,0,Spark,0
+mle,PA,na,0,Spark,0
+other data,AZ,na,0,Spark,0
+data scientist,CA,senior,0,Spark,0
+analyst,AL,na,0,Spark,0
+data scientist,MA,senior,0,Spark,0
+other scientist,MA,na,0,Spark,0
+mle,IL,senior,0,Spark,0
+data scientist,UT,senior,0,Spark,0
+data engineer,LA,na,0,Spark,0
+other scientist,NY,senior,0,Spark,0
+other data,MD,na,0,Spark,0
+other scientist,MA,senior,0,Spark,0
+mle,CA,na,0,Spark,1
+other scientist,NY,senior,0,Spark,0
+data engineer,CA,senior,0,Spark,1
+analyst,CA,na,0,Spark,0
+other scientist,TX,na,1,Spark,0
+other scientist,IL,na,0,Spark,0
+mle,PA,senior,0,Spark,0
+manager,CA,na,0,Spark,0
+data engineer,TN,senior,0,Spark,0
+other scientist,DE,na,1,Spark,0
+other scientist,WI,na,0,Spark,0
+other scientist,MD,na,0,Spark,0
+data engineer,IL,senior,0,Spark,0
+data scientist,IL,na,0,Spark,0
+data scientist,VA,na,0,Spark,1
+data scientist,WI,senior,0,Spark,0
+analyst,NY,na,0,Spark,0
+other scientist,LA,na,1,Spark,0
+data scientist,TX,na,0,Spark,1
+analyst,FL,senior,0,Spark,0
+manager,NJ,na,0,Spark,0
+data engineer,MA,na,0,Spark,1
+data scientist,IL,na,0,Spark,0
+analyst,CA,na,0,Spark,0
+data scientist,VA,na,0,Spark,1
+analyst,OH,na,0,Spark,0
+data scientist,MA,senior,0,Spark,1
+data scientist,CA,senior,0,Spark,1
+data scientist,CA,senior,0,Spark,1
+analyst,CA,na,0,Spark,0
+other scientist,MA,na,0,Spark,0
+analyst,CA,na,0,Spark,0
+analyst,ID,na,0,Spark,0
+data scientist,CA,na,0,Spark,0
+data scientist,MD,na,0,Spark,0
+analyst,NJ,na,0,Spark,0
+data scientist,IN,na,0,Spark,0
+data engineer,UT,na,0,Spark,0
+data scientist,MA,na,0,Spark,0
+data scientist,KY,na,0,Spark,0
+other data,NY,na,0,Spark,0
+other scientist,MA,senior,0,Spark,0
+data engineer,TN,na,0,Spark,1
+data engineer,IL,na,0,Spark,1
+analyst,VA,senior,0,Spark,0
+data scientist,OR,na,0,Spark,1
+analyst,MN,na,0,Spark,0
+data scientist,NY,na,0,Spark,0
+data scientist,TX,na,0,Spark,0
+data scientist,WI,na,0,Spark,0
+data scientist,CA,na,0,Spark,0
+analyst,RI,senior,0,Spark,0
+other scientist,NE,na,0,Spark,0
+other scientist,PA,na,1,Spark,0
+analyst,DC,na,0,Spark,0
+data engineer,TX,na,0,Spark,0
+data scientist,OH,na,0,Spark,0
+data scientist,CA,senior,0,Spark,1
+data scientist,NC,na,0,Spark,1
+other scientist,MA,na,0,Spark,0
+manager,MI,na,0,Spark,0
+data scientist,CT,na,0,Spark,0
+data scientist,VA,na,0,Spark,0
+data scientist,PA,senior,0,Spark,1
+data engineer,FL,na,0,Spark,1
+data scientist,CA,na,0,Spark,1
+other scientist,CA,senior,0,Spark,0
+analyst,CA,na,0,Spark,0
+other scientist,MA,senior,0,Spark,0
+analyst,NJ,senior,0,Spark,0
+analyst,ID,na,0,Spark,0
+data scientist,CA,na,0,Spark,0
+data scientist,TN,na,0,Spark,0
+data scientist,CA,senior,0,Spark,0
+data engineer,CA,na,0,Spark,0
+data scientist,NJ,senior,0,Spark,0
+data engineer,IA,na,0,Spark,0
+other scientist,MA,senior,0,Spark,0
+other scientist,DE,na,1,Spark,0
+data scientist,NY,senior,0,Spark,1
+data scientist,CA,na,0,Spark,0
+analyst,NJ,na,0,Spark,0
+analyst,MO,na,0,Spark,0
+mle,PA,na,0,Spark,0
+data scientist,NY,na,0,Spark,0
+data scientist,OR,na,0,Spark,1
+data scientist,MI,na,0,Spark,0
+data scientist,DC,na,0,Spark,0
+data scientist,CA,senior,0,Spark,0
+data scientist,VA,senior,0,Spark,0
+data scientist,CA,senior,0,Spark,0
+other data,AZ,na,0,Spark,0
+analyst,AL,na,0,Spark,0
+other data,CA,na,0,Spark,0
+data engineer,TX,na,0,Spark,1
+data scientist,NY,senior,0,Spark,0
+data engineer,MA,na,0,Spark,1
+other scientist,SC,na,0,Spark,0
+data scientist,MA,senior,0,Spark,0
+other scientist,CA,na,0,Spark,0
+analyst,MA,senior,0,Spark,0
+mle,IL,senior,0,Spark,0
+analyst,DC,na,0,Spark,0
+data engineer,VA,na,0,Spark,0
+data scientist,MA,senior,0,Spark,0
+data engineer,CA,senior,0,Spark,1
+other scientist,TX,na,0,Spark,0
+other data,CA,senior,0,Spark,0
+data engineer,IN,na,0,Spark,1
+data scientist,MA,na,0,Spark,0
+data scientist,CA,na,0,Spark,1
+data scientist,TX,senior,0,Spark,0
+other scientist,MA,na,0,Spark,0
+analyst,VA,na,0,Spark,0
+data engineer,LA,na,0,Spark,0
+data scientist,WA,na,0,Spark,0
+data engineer,MA,na,0,Spark,1
+data scientist,UT,senior,0,Spark,0
+other data,VA,na,0,Spark,0
+other scientist,NY,senior,0,Spark,0
+other scientist,MA,senior,0,Spark,0
+data scientist,CA,na,0,Spark,0
+analyst,FL,na,0,Spark,0
+other data,MD,na,0,Spark,0
+data engineer,VA,na,0,Spark,1
+data engineer,TX,na,0,Spark,1
+data engineer,DC,na,0,Spark,1
+data scientist,NC,senior,0,Spark,1
+data engineer,CA,na,0,Spark,1
+analyst,PA,na,0,Spark,0
+other scientist,NY,senior,0,Spark,0
+analyst,VA,na,0,Spark,0
+director,MA,na,0,Spark,0
+data scientist,CA,na,0,Spark,1
+data scientist,MA,na,0,Spark,0
+mle,CA,na,0,Spark,1
+analyst,IL,na,0,Spark,1
+data engineer,CA,senior,0,Spark,1
+other scientist,KY,na,0,Spark,0
+manager,MA,na,0,Spark,0
+Consultant,CT,na,0,Spark,0
+data engineer,CA,na,0,Spark,1
+analyst,CA,na,0,Spark,0
+other scientist,MA,senior,0,Spark,0
+other scientist,TX,na,1,Spark,0
+mle,KS,na,0,Spark,0
+other scientist,IL,na,0,Spark,0
+data engineer,NY,na,0,Spark,0
+other scientist,CA,na,0,Spark,0
+data engineer,MA,na,0,Spark,1
+mle,PA,senior,0,Spark,0
+data scientist,IL,senior,0,Spark,0
+other scientist,CO,na,1,Spark,0
+manager,CA,na,0,Spark,0
+data engineer,TN,senior,0,Spark,0
+data scientist,CA,na,0,Spark,0
+data scientist,NY,senior,0,Spark,0
+data engineer,CO,na,0,Spark,0
+other scientist,WI,na,0,Spark,0
+data scientist,MA,senior,0,Spark,0
+data engineer,MD,na,0,Spark,0
+director,IL,na,0,Spark,0
+other scientist,CA,na,0,Spark,0
+other scientist,MD,na,0,Spark,0
+other scientist,DE,na,1,Spark,0
+other scientist,NC,na,0,Spark,0
+analyst,OH,na,0,Spark,0
+data engineer,IN,senior,0,Spark,1
+data scientist,IL,senior,0,Spark,0
+other data,VA,senior,0,Spark,0
+other scientist,MA,na,1,Spark,0
+other scientist,NC,senior,0,Spark,0
+other scientist,CA,na,0,Spark,0
+manager,CA,na,0,Spark,0
+other scientist,NY,na,0,Spark,0
+other scientist,GA,senior,0,Spark,0
+data engineer,MA,na,0,Spark,1
+other scientist,MA,na,0,Spark,0
+other scientist,PA,na,0,Spark,0
+data scientist,FL,na,0,Spark,0
+data scientist,DC,na,0,Spark,0
+other data,MA,na,0,Spark,1
+data scientist,NY,senior,0,Spark,0
+analyst,WI,na,0,Spark,0
+data scientist,CA,senior,0,Spark,0
+analyst,NY,na,0,Spark,0
+data engineer,NC,senior,0,Spark,1
+analyst,NY,senior,0,Spark,0
+other data,IN,na,0,Spark,0
+other scientist,CA,na,0,Spark,0
+other data,MA,na,0,Spark,0
+data engineer,AZ,senior,0,Spark,0
+data engineer,VA,na,0,Spark,1
+data scientist,FL,senior,0,Spark,0
+Consultant,IL,na,0,Spark,0
+other data,MO,na,0,Spark,1
+data engineer,TX,senior,0,Spark,1
+data scientist,MA,na,0,Spark,1
+other scientist,MA,na,0,Spark,0
+other scientist,MD,na,0,Spark,0
+other scientist,KY,na,0,Spark,0
+data engineer,IL,senior,0,Spark,0
+data engineer,CA,senior,0,Spark,1
+other data,CA,na,0,Spark,1
+data scientist,OH,senior,0,Spark,0
+data scientist,IL,na,0,Spark,0
+data scientist,IL,senior,0,Spark,1
+data engineer,IA,senior,0,Spark,0
+data scientist,WA,senior,0,Spark,0
+analyst,IA,na,0,Spark,0
+director,MA,na,0,Spark,0
+other scientist,MA,senior,0,Spark,0
+analyst,PA,senior,0,Spark,0
+data engineer,CA,senior,0,Spark,0
+data scientist,WA,senior,0,Spark,0
+other scientist,NE,na,1,Spark,0
+analyst,TN,senior,1,Spark,0
+director,IL,na,0,Spark,0
+other scientist,TX,senior,0,Spark,0
+data scientist,TX,na,0,Spark,0
+other scientist,NC,senior,0,Spark,0
+analyst,AL,na,0,Spark,0
+other scientist,NC,senior,0,Spark,0
+director,NJ,na,0,Spark,0
+analyst,PA,senior,0,Spark,0
+data engineer,CA,senior,0,Spark,0
+data engineer,CA,senior,0,Spark,0
+data scientist,NY,na,0,Spark,1
+other scientist,NC,senior,0,Spark,0
+data scientist,NM,na,0,Spark,0
+data scientist,MO,na,0,Spark,1
+data scientist,VA,na,0,Spark,0
+data engineer,MA,na,0,Spark,1
+data scientist,WA,na,0,Spark,0
+data scientist,UT,senior,0,Spark,0
+data scientist,NJ,na,0,Spark,0
+mle,CA,senior,0,Spark,0
+data scientist,CA,na,0,Spark,0
+other data,VA,na,0,Spark,0
+other scientist,NY,senior,0,Spark,0
+data scientist,CA,na,0,Spark,1
+data scientist,CA,na,0,Spark,1
+data scientist,CA,na,0,Spark,1
+data scientist,NY,na,0,Spark,0
+data scientist,NY,na,0,Spark,1
+data engineer,PA,na,0,Spark,1
+other scientist,MA,senior,0,Spark,0
+data scientist,CA,na,0,Spark,0
+other data,MD,na,0,Spark,0
+analyst,FL,na,0,Spark,0
+data engineer,TX,na,0,Spark,1
+data engineer,DC,na,0,Spark,1
+data engineer,VA,na,0,Spark,1
+data engineer,CA,na,0,Spark,1
+data scientist,VA,na,0,Spark,1
+data scientist,CA,na,0,Spark,1
+data scientist,CA,na,0,Spark,1
+data scientist,NC,senior,0,Spark,1
+data scientist,CA,na,0,Spark,0
+data scientist,CA,na,0,Spark,0
+data scientist,VA,na,0,Spark,0
+analyst,NY,na,0,Spark,0
+data scientist,NY,na,0,Spark,0
+data scientist,NY,na,0,Spark,0
+data engineer,CA,na,0,Spark,1
+data scientist,CA,na,0,Spark,0
+data scientist,NY,na,0,Spark,0
+data scientist,NY,na,0,Spark,0
+data scientist,MA,na,0,Spark,0
+data scientist,NY,na,0,Spark,1
+data engineer,NY,na,0,Spark,0
+analyst,PA,na,0,Spark,0
+data scientist,MA,na,0,Spark,1
+data scientist,NY,senior,0,Spark,0
+other scientist,NY,senior,0,Spark,0
+analyst,VA,na,0,Spark,0
+data engineer,OR,na,0,Spark,0
+director,MA,na,0,Spark,0
+mle,CA,na,0,Spark,1
+data scientist,CA,na,0,Spark,0
+data scientist,WA,senior,0,Spark,0
+data scientist,NY,senior,0,Spark,0
+analyst,IL,na,0,Spark,1
+data engineer,CA,senior,0,Spark,1
+analyst,NY,na,0,Spark,0
+other scientist,KY,na,0,Spark,0
+Consultant,CT,na,0,Spark,0
+manager,MA,na,0,Spark,0
+analyst,NY,na,0,Spark,0
+data engineer,CA,na,0,Spark,1
+data scientist,NY,na,0,Spark,0
+mle,VA,na,0,Spark,0
+data scientist,MD,senior,0,Spark,0
+data scientist,MD,na,0,Spark,0
+data scientist,CA,senior,0,Spark,0
+other scientist,MA,senior,0,Spark,0
+mle,KS,na,0,Spark,0
+analyst,CA,na,0,Spark,0
+data engineer,TX,na,0,Spark,1
+other scientist,TX,na,1,Spark,0
+other scientist,IL,na,0,Spark,0
+data scientist,CA,senior,0,Spark,0
+data engineer,AZ,na,0,Spark,1
+data scientist,NY,na,0,Spark,0
+data scientist,MA,na,0,Spark,0
+other scientist,MD,senior,0,Spark,0
+data scientist,MA,na,0,Spark,0
+data engineer,NY,na,0,Spark,0
+other scientist,CA,na,0,Spark,0
+data scientist,NY,na,0,Spark,0
+data engineer,MA,na,0,Spark,1
+mle,PA,senior,0,Spark,0
+data scientist,NY,na,0,Spark,1
+data scientist,IL,senior,0,Spark,0
+data scientist,CA,senior,0,Spark,0
+data scientist,NY,na,0,Spark,1
+other scientist,CO,na,1,Spark,0
+data engineer,NC,na,0,Spark,0
+analyst,UT,na,0,Spark,0
+data engineer,CA,na,0,Spark,1
+other scientist,MA,na,0,Spark,0
+data scientist,CA,senior,0,Spark,1
+analyst,CA,na,0,Spark,0
+analyst,NY,senior,0,Spark,1
+manager,CA,na,0,Spark,0
+other data,CA,na,0,Spark,0
+data scientist,NY,senior,0,Spark,0
+data engineer,TN,senior,0,Spark,0
+data scientist,NY,na,0,Spark,0
+data scientist,CO,senior,0,Spark,0
+data engineer,CO,na,0,Spark,0
+other scientist,WI,na,0,Spark,0
+data engineer,TN,senior,0,Spark,0
+data engineer,MD,na,0,Spark,0
+data scientist,MA,senior,0,Spark,0
+director,IL,na,0,Spark,0
+mle,NY,na,0,Spark,0
+other data,MA,senior,0,Spark,0
+other scientist,CA,na,0,Spark,0
+other scientist,MD,na,0,Spark,0
+other scientist,DE,na,1,Spark,0
+other scientist,NC,na,0,Spark,0
+analyst,OH,na,0,Spark,0
+analyst,MA,na,0,Spark,0
+data engineer,IN,senior,0,Spark,1
+analyst,FL,na,0,Spark,0
+analyst,NY,na,0,Spark,0
+data scientist,IL,senior,0,Spark,0
+other data,VA,senior,0,Spark,0
+other scientist,MA,na,1,Spark,0
+other scientist,NC,senior,0,Spark,0
+other scientist,CA,na,0,Spark,0
+other scientist,NY,na,0,Spark,0
+manager,CA,na,0,Spark,0
+other scientist,GA,senior,0,Spark,0
+data scientist,GA,na,0,Spark,0
+data scientist,CA,na,0,Spark,0
+data engineer,MA,na,0,Spark,1
+other scientist,MA,na,0,Spark,0
+analyst,CA,senior,0,Spark,0
+other data,PA,senior,0,Spark,0
+manager,MA,na,0,Spark,0
+other scientist,MA,senior,0,Spark,0
+data engineer,TN,senior,0,Spark,1
+other scientist,PA,na,0,Spark,0
+other scientist,OH,na,0,Spark,0
+manager,PA,na,0,Spark,0
+analyst,UT,na,0,Spark,0
+other data,MA,na,0,Spark,1
+analyst,UT,na,0,Spark,0
+data engineer,AL,na,0,Spark,1
+analyst,WI,na,0,Spark,0
+data scientist,NY,senior,0,Spark,0
+analyst,NY,na,0,Spark,0
+analyst,VA,senior,0,Spark,0
+analyst,NY,senior,0,Spark,0
+data engineer,VA,senior,0,Spark,1
+data engineer,NC,senior,0,Spark,1
+other data,MA,na,0,Spark,1
+other data,IN,na,0,Spark,0
+data scientist,MA,na,0,Spark,0
+data scientist,NY,na,0,Spark,1
+manager,PA,na,0,Spark,0
+other scientist,CA,na,0,Spark,0
+data engineer,AZ,senior,0,Spark,0
+data scientist,MA,senior,0,Spark,0
+analyst,CA,senior,0,Spark,0
+other data,MA,na,0,Spark,0
+other scientist,MA,na,0,Spark,0
+data scientist,FL,senior,0,Spark,0
+data engineer,VA,na,0,Spark,1
+data engineer,AZ,na,0,Spark,1
+data scientist,CA,senior,0,Spark,0
+other data,MO,na,0,Spark,1
+data engineer,VA,na,0,Spark,1
+Consultant,IL,na,0,Spark,0
+data scientist,MA,na,0,Spark,1
+data engineer,TX,senior,0,Spark,1
+other scientist,MD,na,0,Spark,0
+data engineer,IL,na,0,Spark,1
+data engineer,IL,senior,0,Spark,0
+other scientist,MA,na,0,Spark,0
+manager,CA,na,0,Spark,1
+other scientist,KY,na,0,Spark,0
+data scientist,CA,na,0,Spark,0
+data engineer,VA,na,0,Spark,1
+data engineer,CA,na,0,Spark,0
+data engineer,CA,senior,0,Spark,1
+other data,CA,na,0,Spark,1
+data scientist,OH,senior,0,Spark,0
+data engineer,IA,senior,0,Spark,0
+other scientist,CA,na,0,Spark,0
+data scientist,WA,senior,0,Spark,0
+analyst,IA,na,0,Spark,0
+director,MA,na,0,Spark,0
+director,MA,na,0,Spark,0
+other scientist,MA,senior,0,Spark,0
+analyst,PA,senior,0,Spark,0
+other scientist,CA,senior,0,Spark,0
+data engineer,CA,senior,0,Spark,0
+manager,CA,na,0,Spark,0
+data scientist,WA,senior,0,Spark,0
+data engineer,IL,na,0,Spark,0
+director,IL,na,0,Spark,0
+other scientist,NE,na,1,Spark,0
+analyst,TN,senior,1,Spark,0
+analyst,NJ,senior,0,Spark,0
+data scientist,TX,na,0,Spark,0
+other scientist,TX,senior,0,Spark,0
+other scientist,NC,senior,0,Spark,0
+analyst,AL,na,0,Spark,0
+other scientist,NC,senior,0,Spark,0
+data scientist,PA,na,0,Spark,0
+data scientist,MD,senior,0,Spark,0
+director,NJ,na,0,Spark,0
+data engineer,VA,na,0,Spark,0
+analyst,PA,senior,0,Spark,0
+data engineer,CA,senior,0,Spark,0
+data engineer,CA,senior,0,Spark,0
+analyst,NY,senior,0,Spark,1
+other scientist,MA,senior,0,Spark,0
+data scientist,NY,na,0,Spark,1
+analyst,CA,na,0,Spark,0
+other scientist,NC,senior,0,Spark,0
+other scientist,MA,senior,0,Spark,0
+mle,PA,na,0,Spark,0
+analyst,WA,na,0,Spark,0
+analyst,MD,senior,0,Spark,0
+other scientist,MA,senior,0,Spark,0
+analyst,PA,senior,0,Spark,0
+other data,CA,senior,0,Spark,1
+other scientist,MD,na,0,Spark,0
+other scientist,MA,na,1,Spark,0
+other scientist,MD,na,0,Spark,0
+manager,MA,na,0,Spark,0
+director,MA,na,0,Spark,0
+data engineer,CA,senior,0,Spark,1
+data scientist,CA,senior,0,Spark,0
+data scientist,WA,na,0,Spark,0
+Consultant,CT,na,0,Spark,0
+other scientist,MD,na,0,Spark,0
+analyst,NY,na,0,Spark,0
+data engineer,CA,na,0,Spark,1
+data scientist,NJ,na,0,Spark,0
+data scientist,NY,na,0,Spark,0
+data scientist,MO,na,0,Spark,0
+mle,VA,na,0,Spark,0
+data scientist,MD,na,0,Spark,0
+data scientist,CA,senior,0,Spark,0
+other scientist,MA,senior,0,Spark,0
+analyst,CA,na,0,Spark,0
+mle,KS,na,0,Spark,0
+data engineer,TX,na,0,Spark,1
+other scientist,TX,na,1,Spark,0
+data scientist,CA,senior,0,Spark,0
+other scientist,IL,na,0,Spark,0
+data engineer,AZ,na,0,Spark,1
+other scientist,MD,senior,0,Spark,0
+data scientist,MA,na,0,Spark,0
+data scientist,OH,senior,0,Spark,0
+data scientist,VA,senior,0,Spark,1
+data scientist,DC,na,0,Spark,0
+other scientist,CA,na,0,Spark,0
+data engineer,MA,na,0,Spark,1
+data scientist,NY,na,0,Spark,1
+data scientist,NY,na,0,Spark,0
+data scientist,IL,senior,0,Spark,0
+mle,PA,senior,0,Spark,0
+data scientist,CA,senior,0,Spark,0
+other scientist,CO,na,1,Spark,0
+analyst,UT,na,0,Spark,0
+data scientist,NY,na,0,Spark,1
+data scientist,AZ,na,0,Spark,0
+data scientist,CA,na,0,Spark,0
+data engineer,NC,na,0,Spark,0
+data engineer,CA,na,0,Spark,1
+data scientist,CA,na,0,Spark,0
+other scientist,MA,na,0,Spark,0
+data scientist,CA,senior,0,Spark,1
+data scientist,VA,jr,0,Spark,1
+data scientist,MI,senior,0,Spark,0
+analyst,CA,na,0,Spark,0
+other data,NY,na,0,Spark,0
+manager,CA,na,0,Spark,0
+analyst,NY,senior,0,Spark,1
+other data,CA,na,0,Spark,0
+data scientist,MD,senior,0,Spark,0
+data scientist,WA,na,0,Spark,0
+data engineer,TN,senior,0,Spark,0
+data scientist,NY,senior,0,Spark,0
+data engineer,CO,na,0,Spark,0
+other scientist,WI,na,0,Spark,0
+data engineer,TN,senior,0,Spark,0
+data engineer,MD,na,0,Spark,0
+data scientist,MA,senior,0,Spark,0
+director,IL,na,0,Spark,0
+mle,NY,na,0,Spark,0
+other data,MA,senior,0,Spark,0
+other scientist,DE,na,1,Spark,0
+other scientist,CA,na,0,Spark,0
+other scientist,MD,na,0,Spark,0
+data scientist,PA,na,0,Spark,1
+other scientist,NC,na,0,Spark,0
+other scientist,CA,senior,0,Spark,0
+analyst,OH,na,0,Spark,0
+data engineer,IN,senior,0,Spark,1
+analyst,FL,na,0,Spark,0
+analyst,MA,na,0,Spark,0
+analyst,NY,na,0,Spark,0
+data scientist,IL,senior,0,Spark,0
+other data,VA,senior,0,Spark,0
+other scientist,MA,na,1,Spark,0
+other scientist,NC,senior,0,Spark,0
+other scientist,CA,na,0,Spark,0
+manager,CA,na,0,Spark,0
+other scientist,GA,senior,0,Spark,0
+other scientist,NY,na,0,Spark,0
+other scientist,MA,na,0,Spark,0
+data engineer,MA,na,0,Spark,1
+mle,CA,na,0,Spark,0
+analyst,CA,senior,0,Spark,0
+manager,MA,na,0,Spark,0
+data engineer,CA,na,0,Spark,0
+other data,PA,senior,0,Spark,0
+other scientist,MA,senior,0,Spark,0
+data engineer,TN,senior,0,Spark,1
+other scientist,PA,na,0,Spark,0
+manager,PA,na,0,Spark,0
+other scientist,OH,na,0,Spark,0
+data scientist,NM,na,0,AWS,0
+data scientist,MD,na,0,AWS,0
+data scientist,FL,na,0,AWS,0
+data scientist,WA,na,0,AWS,0
+data scientist,NY,na,0,AWS,0
+data scientist,TX,na,0,AWS,1
+data scientist,MD,na,0,AWS,0
+data scientist,CA,na,0,AWS,1
+other scientist,NY,na,0,AWS,0
+data scientist,NY,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data scientist,VA,na,0,AWS,0
+data scientist,TX,na,0,AWS,0
+analyst,WA,na,0,AWS,1
+data scientist,MA,na,0,AWS,0
+data engineer,NJ,na,0,AWS,0
+other scientist,MA,na,0,AWS,0
+data scientist,CA,na,0,AWS,1
+data scientist,CA,na,0,AWS,0
+data scientist,CO,na,0,AWS,0
+data scientist,WA,na,0,AWS,0
+data scientist,TX,senior,0,AWS,0
+data scientist,IL,na,0,AWS,1
+data scientist,KY,na,0,AWS,0
+data scientist,VA,na,0,AWS,1
+data scientist,MA,na,0,AWS,1
+data scientist,OR,na,0,AWS,1
+analyst,MA,na,0,AWS,0
+data scientist,CT,na,0,AWS,1
+data scientist,FL,na,0,AWS,0
+data scientist,WA,na,0,AWS,0
+data scientist,MI,na,0,AWS,0
+data scientist,MA,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data scientist,MA,na,0,AWS,0
+analyst,CA,na,0,AWS,0
+data scientist,CA,na,0,AWS,1
+data scientist,MA,na,0,AWS,0
+data scientist,CA,senior,0,AWS,0
+data engineer,NY,na,0,AWS,0
+analyst,CA,na,0,AWS,1
+data engineer,MA,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+other scientist,NJ,na,0,AWS,1
+data scientist,IL,senior,0,AWS,0
+data scientist,DC,na,0,AWS,1
+data scientist,WA,senior,0,AWS,0
+analyst,CO,na,0,AWS,0
+other scientist,OH,na,0,AWS,0
+data scientist,IL,na,0,AWS,0
+data scientist,FL,na,0,AWS,0
+data scientist,MA,na,0,AWS,0
+analyst,AL,na,0,AWS,0
+data scientist,NY,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data scientist,NM,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data scientist,MO,na,0,AWS,0
+data scientist,MD,na,0,AWS,0
+data scientist,TX,na,0,AWS,1
+data scientist,OH,senior,0,AWS,1
+data scientist,NY,na,0,AWS,1
+data scientist,CA,senior,0,AWS,0
+data scientist,WA,na,0,AWS,0
+data scientist,PA,na,0,AWS,0
+data scientist,MA,na,0,AWS,0
+data scientist,GA,na,0,AWS,0
+data scientist,MA,na,0,AWS,0
+data scientist,PA,na,0,AWS,1
+other scientist,WA,na,0,AWS,0
+Consultant,IN,na,0,AWS,0
+director,IL,na,0,AWS,0
+other scientist,MO,na,0,AWS,0
+data scientist,VA,senior,0,AWS,0
+data scientist,PA,na,0,AWS,0
+data scientist,WA,senior,0,AWS,1
+data scientist,CA,na,0,AWS,1
+other scientist,MA,na,0,AWS,1
+data scientist,VA,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+analyst,PA,jr,0,AWS,0
+data scientist,MD,na,0,AWS,0
+analyst,IL,na,0,AWS,0
+data engineer,VA,na,0,AWS,1
+analyst,WA,na,0,AWS,0
+data scientist,TX,na,0,AWS,0
+data scientist,CA,na,0,AWS,1
+data scientist,FL,na,0,AWS,0
+other data,AL,na,0,AWS,0
+analyst,LA,na,0,AWS,0
+other scientist,CA,senior,0,AWS,0
+data scientist,GA,na,0,AWS,0
+other data,MD,na,0,AWS,0
+analyst,MD,na,0,AWS,0
+other scientist,MD,na,0,AWS,0
+data scientist,VA,na,0,AWS,0
+data scientist,VA,na,0,AWS,0
+analyst,WI,na,0,AWS,0
+data scientist,MD,senior,0,AWS,0
+data scientist,NY,na,0,AWS,0
+data scientist,NY,na,0,AWS,0
+data scientist,TX,na,0,AWS,0
+data scientist,DC,senior,0,AWS,0
+data engineer,NC,na,0,AWS,0
+data scientist,MI,senior,0,AWS,1
+analyst,NJ,na,0,AWS,0
+analyst,AZ,senior,0,AWS,0
+other scientist,NE,na,0,AWS,0
+data scientist,CA,na,0,AWS,1
+data engineer,NJ,na,0,AWS,0
+data scientist,MA,na,0,AWS,0
+data scientist,NY,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data engineer,CA,na,0,AWS,0
+data scientist,IN,na,0,AWS,0
+data scientist,MD,na,0,AWS,0
+data engineer,MN,na,0,AWS,1
+data scientist,CA,na,0,AWS,0
+data engineer,NC,senior,0,AWS,1
+data scientist,MA,na,0,AWS,0
+data scientist,OH,na,0,AWS,0
+data engineer,DC,na,0,AWS,1
+data engineer,IL,na,0,AWS,0
+analyst,MD,na,0,AWS,0
+other scientist,AL,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+manager,MO,na,0,AWS,1
+data scientist,VA,senior,0,AWS,0
+data scientist,IL,na,0,AWS,1
+data scientist,VA,senior,0,AWS,1
+data scientist,TX,na,0,AWS,0
+other scientist,CA,na,0,AWS,0
+other scientist,CA,na,0,AWS,0
+mle,CO,na,0,AWS,1
+data scientist,NY,na,0,AWS,0
+data scientist,VA,na,0,AWS,0
+data scientist,CA,na,0,AWS,1
+data engineer,FL,na,0,AWS,0
+data engineer,IL,na,0,AWS,0
+data scientist,CO,senior,0,AWS,0
+data engineer,UT,na,0,AWS,1
+analyst,CA,na,0,AWS,0
+other scientist,PA,senior,0,AWS,0
+data scientist,WA,na,0,AWS,0
+data engineer,DC,na,0,AWS,0
+data scientist,IL,na,0,AWS,1
+data scientist,OH,senior,0,AWS,0
+data engineer,TN,na,0,AWS,0
+data scientist,WA,senior,0,AWS,0
+analyst,FL,senior,0,AWS,0
+other data,IN,senior,0,AWS,1
+data engineer,MA,na,0,AWS,0
+manager,NJ,na,0,AWS,0
+data scientist,MA,senior,0,AWS,1
+data scientist,CA,senior,0,AWS,0
+data scientist,CA,senior,0,AWS,1
+other scientist,MA,na,0,AWS,0
+data scientist,MD,na,0,AWS,0
+data scientist,CA,na,0,AWS,1
+data scientist,TX,senior,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data engineer,UT,na,0,AWS,0
+other scientist,MA,senior,0,AWS,0
+analyst,VA,senior,0,AWS,0
+other scientist,PA,na,1,AWS,0
+data scientist,WI,na,0,AWS,0
+other scientist,MA,na,0,AWS,0
+data scientist,CA,senior,0,AWS,0
+manager,MI,na,0,AWS,0
+data engineer,FL,na,0,AWS,1
+analyst,CA,na,0,AWS,0
+other scientist,CA,senior,0,AWS,0
+analyst,NJ,senior,0,AWS,0
+other scientist,MA,senior,0,AWS,0
+data scientist,NJ,senior,0,AWS,0
+data scientist,CA,senior,0,AWS,1
+other scientist,DE,na,1,AWS,0
+other scientist,MA,senior,0,AWS,0
+data scientist,NY,senior,0,AWS,1
+analyst,MO,na,0,AWS,0
+mle,PA,na,0,AWS,0
+other data,AZ,na,0,AWS,0
+data scientist,CA,senior,0,AWS,0
+analyst,AL,na,0,AWS,0
+data scientist,MA,senior,0,AWS,0
+other scientist,MA,na,0,AWS,0
+mle,IL,senior,0,AWS,1
+data scientist,UT,senior,0,AWS,1
+data engineer,LA,na,0,AWS,0
+other scientist,NY,senior,0,AWS,0
+other data,MD,na,0,AWS,0
+other scientist,MA,senior,0,AWS,0
+mle,CA,na,0,AWS,0
+other scientist,NY,senior,0,AWS,0
+data engineer,CA,senior,0,AWS,1
+analyst,CA,na,0,AWS,0
+other scientist,TX,na,1,AWS,1
+other scientist,IL,na,0,AWS,0
+mle,PA,senior,0,AWS,0
+manager,CA,na,0,AWS,0
+data engineer,TN,senior,0,AWS,0
+other scientist,DE,na,1,AWS,0
+other scientist,WI,na,0,AWS,0
+other scientist,MD,na,0,AWS,0
+data engineer,IL,senior,0,AWS,0
+data scientist,IL,na,0,AWS,1
+data scientist,VA,na,0,AWS,0
+data scientist,WI,senior,0,AWS,0
+analyst,NY,na,0,AWS,0
+other scientist,LA,na,1,AWS,0
+data scientist,TX,na,0,AWS,1
+analyst,FL,senior,0,AWS,0
+manager,NJ,na,0,AWS,0
+data engineer,MA,na,0,AWS,0
+data scientist,IL,na,0,AWS,0
+analyst,CA,na,0,AWS,0
+data scientist,VA,na,0,AWS,0
+analyst,OH,na,0,AWS,0
+data scientist,MA,senior,0,AWS,1
+data scientist,CA,senior,0,AWS,0
+data scientist,CA,senior,0,AWS,1
+analyst,CA,na,0,AWS,0
+other scientist,MA,na,0,AWS,0
+analyst,CA,na,0,AWS,0
+analyst,ID,na,0,AWS,0
+data scientist,CA,na,0,AWS,1
+data scientist,MD,na,0,AWS,0
+analyst,NJ,na,0,AWS,0
+data scientist,IN,na,0,AWS,1
+data engineer,UT,na,0,AWS,0
+data scientist,MA,na,0,AWS,1
+data scientist,KY,na,0,AWS,0
+other data,NY,na,0,AWS,0
+other scientist,MA,senior,0,AWS,0
+data engineer,TN,na,0,AWS,1
+data engineer,IL,na,0,AWS,1
+analyst,VA,senior,0,AWS,0
+data scientist,OR,na,0,AWS,0
+analyst,MN,na,0,AWS,0
+data scientist,NY,na,0,AWS,0
+data scientist,TX,na,0,AWS,0
+data scientist,WI,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+analyst,RI,senior,0,AWS,1
+other scientist,NE,na,0,AWS,0
+other scientist,PA,na,1,AWS,0
+analyst,DC,na,0,AWS,0
+data engineer,TX,na,0,AWS,1
+data scientist,OH,na,0,AWS,0
+data scientist,CA,senior,0,AWS,0
+data scientist,NC,na,0,AWS,1
+other scientist,MA,na,0,AWS,0
+manager,MI,na,0,AWS,0
+data scientist,CT,na,0,AWS,1
+data scientist,VA,na,0,AWS,1
+data scientist,PA,senior,0,AWS,1
+data engineer,FL,na,0,AWS,1
+data scientist,CA,na,0,AWS,0
+other scientist,CA,senior,0,AWS,0
+analyst,CA,na,0,AWS,0
+other scientist,MA,senior,0,AWS,0
+analyst,NJ,senior,0,AWS,0
+analyst,ID,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data scientist,TN,na,0,AWS,0
+data scientist,CA,senior,0,AWS,1
+data engineer,CA,na,0,AWS,1
+data scientist,NJ,senior,0,AWS,0
+data engineer,IA,na,0,AWS,0
+other scientist,MA,senior,0,AWS,0
+other scientist,DE,na,1,AWS,0
+data scientist,NY,senior,0,AWS,1
+data scientist,CA,na,0,AWS,0
+analyst,NJ,na,0,AWS,1
+analyst,MO,na,0,AWS,0
+mle,PA,na,0,AWS,0
+data scientist,NY,na,0,AWS,0
+data scientist,OR,na,0,AWS,1
+data scientist,MI,na,0,AWS,0
+data scientist,DC,na,0,AWS,0
+data scientist,CA,senior,0,AWS,0
+data scientist,VA,senior,0,AWS,1
+data scientist,CA,senior,0,AWS,1
+other data,AZ,na,0,AWS,0
+analyst,AL,na,0,AWS,0
+other data,CA,na,0,AWS,0
+data engineer,TX,na,0,AWS,0
+data scientist,NY,senior,0,AWS,0
+data engineer,MA,na,0,AWS,1
+other scientist,SC,na,0,AWS,0
+data scientist,MA,senior,0,AWS,0
+other scientist,CA,na,0,AWS,0
+analyst,MA,senior,0,AWS,0
+mle,IL,senior,0,AWS,1
+analyst,DC,na,0,AWS,0
+data engineer,VA,na,0,AWS,0
+data scientist,MA,senior,0,AWS,0
+data engineer,CA,senior,0,AWS,0
+other scientist,TX,na,0,AWS,0
+other data,CA,senior,0,AWS,0
+data engineer,IN,na,0,AWS,0
+data scientist,MA,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data scientist,TX,senior,0,AWS,0
+other scientist,MA,na,0,AWS,0
+analyst,VA,na,0,AWS,0
+data engineer,LA,na,0,AWS,0
+data scientist,WA,na,0,AWS,0
+data engineer,MA,na,0,AWS,0
+data scientist,UT,senior,0,AWS,1
+other data,VA,na,0,AWS,0
+other scientist,NY,senior,0,AWS,0
+other scientist,MA,senior,0,AWS,0
+data scientist,CA,na,0,AWS,0
+analyst,FL,na,0,AWS,0
+other data,MD,na,0,AWS,0
+data engineer,VA,na,0,AWS,0
+data engineer,TX,na,0,AWS,1
+data engineer,DC,na,0,AWS,1
+data scientist,NC,senior,0,AWS,0
+data engineer,CA,na,0,AWS,0
+analyst,PA,na,0,AWS,0
+other scientist,NY,senior,0,AWS,0
+analyst,VA,na,0,AWS,0
+director,MA,na,0,AWS,0
+data scientist,CA,na,0,AWS,1
+data scientist,MA,na,0,AWS,0
+mle,CA,na,0,AWS,0
+analyst,IL,na,0,AWS,0
+data engineer,CA,senior,0,AWS,1
+other scientist,KY,na,0,AWS,0
+manager,MA,na,0,AWS,0
+Consultant,CT,na,0,AWS,0
+data engineer,CA,na,0,AWS,1
+analyst,CA,na,0,AWS,0
+other scientist,MA,senior,0,AWS,0
+other scientist,TX,na,1,AWS,1
+mle,KS,na,0,AWS,0
+other scientist,IL,na,0,AWS,0
+data engineer,NY,na,0,AWS,1
+other scientist,CA,na,0,AWS,0
+data engineer,MA,na,0,AWS,1
+mle,PA,senior,0,AWS,0
+data scientist,IL,senior,0,AWS,1
+other scientist,CO,na,1,AWS,0
+manager,CA,na,0,AWS,0
+data engineer,TN,senior,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data scientist,NY,senior,0,AWS,0
+data engineer,CO,na,0,AWS,1
+other scientist,WI,na,0,AWS,0
+data scientist,MA,senior,0,AWS,0
+data engineer,MD,na,0,AWS,1
+director,IL,na,0,AWS,0
+other scientist,CA,na,0,AWS,0
+other scientist,MD,na,0,AWS,0
+other scientist,DE,na,1,AWS,0
+other scientist,NC,na,0,AWS,0
+analyst,OH,na,0,AWS,0
+data engineer,IN,senior,0,AWS,1
+data scientist,IL,senior,0,AWS,0
+other data,VA,senior,0,AWS,0
+other scientist,MA,na,1,AWS,0
+other scientist,NC,senior,0,AWS,0
+other scientist,CA,na,0,AWS,0
+manager,CA,na,0,AWS,0
+other scientist,NY,na,0,AWS,0
+other scientist,GA,senior,0,AWS,0
+data engineer,MA,na,0,AWS,0
+other scientist,MA,na,0,AWS,0
+other scientist,PA,na,0,AWS,0
+data scientist,FL,na,0,AWS,0
+data scientist,DC,na,0,AWS,1
+other data,MA,na,0,AWS,1
+data scientist,NY,senior,0,AWS,1
+analyst,WI,na,0,AWS,1
+data scientist,CA,senior,0,AWS,0
+analyst,NY,na,0,AWS,0
+data engineer,NC,senior,0,AWS,1
+analyst,NY,senior,0,AWS,0
+other data,IN,na,0,AWS,0
+other scientist,CA,na,0,AWS,0
+other data,MA,na,0,AWS,0
+data engineer,AZ,senior,0,AWS,0
+data engineer,VA,na,0,AWS,1
+data scientist,FL,senior,0,AWS,1
+Consultant,IL,na,0,AWS,0
+other data,MO,na,0,AWS,0
+data engineer,TX,senior,0,AWS,0
+data scientist,MA,na,0,AWS,0
+other scientist,MA,na,0,AWS,0
+other scientist,MD,na,0,AWS,0
+other scientist,KY,na,0,AWS,0
+data engineer,IL,senior,0,AWS,0
+data engineer,CA,senior,0,AWS,1
+other data,CA,na,0,AWS,0
+data scientist,OH,senior,0,AWS,0
+data scientist,IL,na,0,AWS,0
+data scientist,IL,senior,0,AWS,0
+data engineer,IA,senior,0,AWS,0
+data scientist,WA,senior,0,AWS,0
+analyst,IA,na,0,AWS,0
+director,MA,na,0,AWS,0
+other scientist,MA,senior,0,AWS,0
+analyst,PA,senior,0,AWS,0
+data engineer,CA,senior,0,AWS,1
+data scientist,WA,senior,0,AWS,0
+other scientist,NE,na,1,AWS,0
+analyst,TN,senior,1,AWS,0
+director,IL,na,0,AWS,0
+other scientist,TX,senior,0,AWS,1
+data scientist,TX,na,0,AWS,1
+other scientist,NC,senior,0,AWS,0
+analyst,AL,na,0,AWS,0
+other scientist,NC,senior,0,AWS,0
+director,NJ,na,0,AWS,1
+analyst,PA,senior,0,AWS,0
+data engineer,CA,senior,0,AWS,1
+data engineer,CA,senior,0,AWS,0
+data scientist,NY,na,0,AWS,0
+other scientist,NC,senior,0,AWS,0
+data scientist,NM,na,0,AWS,0
+data scientist,MO,na,0,AWS,0
+data scientist,VA,na,0,AWS,0
+data engineer,MA,na,0,AWS,0
+data scientist,WA,na,0,AWS,0
+data scientist,UT,senior,0,AWS,1
+data scientist,NJ,na,0,AWS,0
+mle,CA,senior,0,AWS,0
+data scientist,CA,na,0,AWS,0
+other data,VA,na,0,AWS,0
+other scientist,NY,senior,0,AWS,0
+data scientist,CA,na,0,AWS,1
+data scientist,CA,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data scientist,NY,na,0,AWS,0
+data scientist,NY,na,0,AWS,0
+data engineer,PA,na,0,AWS,1
+other scientist,MA,senior,0,AWS,0
+data scientist,CA,na,0,AWS,0
+other data,MD,na,0,AWS,0
+analyst,FL,na,0,AWS,0
+data engineer,TX,na,0,AWS,1
+data engineer,DC,na,0,AWS,1
+data engineer,VA,na,0,AWS,0
+data engineer,CA,na,0,AWS,1
+data scientist,VA,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data scientist,NC,senior,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data scientist,VA,na,0,AWS,1
+analyst,NY,na,0,AWS,1
+data scientist,NY,na,0,AWS,1
+data scientist,NY,na,0,AWS,0
+data engineer,CA,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data scientist,NY,na,0,AWS,0
+data scientist,NY,na,0,AWS,0
+data scientist,MA,na,0,AWS,0
+data scientist,NY,na,0,AWS,0
+data engineer,NY,na,0,AWS,0
+analyst,PA,na,0,AWS,0
+data scientist,MA,na,0,AWS,1
+data scientist,NY,senior,0,AWS,1
+other scientist,NY,senior,0,AWS,0
+analyst,VA,na,0,AWS,0
+data engineer,OR,na,0,AWS,0
+director,MA,na,0,AWS,0
+mle,CA,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data scientist,WA,senior,0,AWS,0
+data scientist,NY,senior,0,AWS,0
+analyst,IL,na,0,AWS,0
+data engineer,CA,senior,0,AWS,1
+analyst,NY,na,0,AWS,0
+other scientist,KY,na,0,AWS,0
+Consultant,CT,na,0,AWS,0
+manager,MA,na,0,AWS,0
+analyst,NY,na,0,AWS,0
+data engineer,CA,na,0,AWS,1
+data scientist,NY,na,0,AWS,1
+mle,VA,na,0,AWS,0
+data scientist,MD,senior,0,AWS,0
+data scientist,MD,na,0,AWS,0
+data scientist,CA,senior,0,AWS,0
+other scientist,MA,senior,0,AWS,0
+mle,KS,na,0,AWS,0
+analyst,CA,na,0,AWS,0
+data engineer,TX,na,0,AWS,0
+other scientist,TX,na,1,AWS,1
+other scientist,IL,na,0,AWS,0
+data scientist,CA,senior,0,AWS,0
+data engineer,AZ,na,0,AWS,0
+data scientist,NY,na,0,AWS,0
+data scientist,MA,na,0,AWS,0
+other scientist,MD,senior,0,AWS,0
+data scientist,MA,na,0,AWS,0
+data engineer,NY,na,0,AWS,1
+other scientist,CA,na,0,AWS,0
+data scientist,NY,na,0,AWS,0
+data engineer,MA,na,0,AWS,1
+mle,PA,senior,0,AWS,0
+data scientist,NY,na,0,AWS,1
+data scientist,IL,senior,0,AWS,1
+data scientist,CA,senior,0,AWS,1
+data scientist,NY,na,0,AWS,1
+other scientist,CO,na,1,AWS,0
+data engineer,NC,na,0,AWS,0
+analyst,UT,na,0,AWS,1
+data engineer,CA,na,0,AWS,1
+other scientist,MA,na,0,AWS,1
+data scientist,CA,senior,0,AWS,0
+analyst,CA,na,0,AWS,0
+analyst,NY,senior,0,AWS,0
+manager,CA,na,0,AWS,0
+other data,CA,na,0,AWS,0
+data scientist,NY,senior,0,AWS,0
+data engineer,TN,senior,0,AWS,0
+data scientist,NY,na,0,AWS,0
+data scientist,CO,senior,0,AWS,0
+data engineer,CO,na,0,AWS,1
+other scientist,WI,na,0,AWS,0
+data engineer,TN,senior,0,AWS,1
+data engineer,MD,na,0,AWS,1
+data scientist,MA,senior,0,AWS,0
+director,IL,na,0,AWS,0
+mle,NY,na,0,AWS,1
+other data,MA,senior,0,AWS,0
+other scientist,CA,na,0,AWS,0
+other scientist,MD,na,0,AWS,0
+other scientist,DE,na,1,AWS,0
+other scientist,NC,na,0,AWS,0
+analyst,OH,na,0,AWS,0
+analyst,MA,na,0,AWS,0
+data engineer,IN,senior,0,AWS,1
+analyst,FL,na,0,AWS,0
+analyst,NY,na,0,AWS,0
+data scientist,IL,senior,0,AWS,0
+other data,VA,senior,0,AWS,0
+other scientist,MA,na,1,AWS,0
+other scientist,NC,senior,0,AWS,0
+other scientist,CA,na,0,AWS,0
+other scientist,NY,na,0,AWS,0
+manager,CA,na,0,AWS,0
+other scientist,GA,senior,0,AWS,0
+data scientist,GA,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data engineer,MA,na,0,AWS,0
+other scientist,MA,na,0,AWS,0
+analyst,CA,senior,0,AWS,0
+other data,PA,senior,0,AWS,0
+manager,MA,na,0,AWS,0
+other scientist,MA,senior,0,AWS,1
+data engineer,TN,senior,0,AWS,1
+other scientist,PA,na,0,AWS,0
+other scientist,OH,na,0,AWS,0
+manager,PA,na,0,AWS,0
+analyst,UT,na,0,AWS,0
+other data,MA,na,0,AWS,1
+analyst,UT,na,0,AWS,0
+data engineer,AL,na,0,AWS,1
+analyst,WI,na,0,AWS,1
+data scientist,NY,senior,0,AWS,1
+analyst,NY,na,0,AWS,0
+analyst,VA,senior,0,AWS,0
+analyst,NY,senior,0,AWS,0
+data engineer,VA,senior,0,AWS,1
+data engineer,NC,senior,0,AWS,1
+other data,MA,na,0,AWS,1
+other data,IN,na,0,AWS,0
+data scientist,MA,na,0,AWS,0
+data scientist,NY,na,0,AWS,1
+manager,PA,na,0,AWS,1
+other scientist,CA,na,0,AWS,0
+data engineer,AZ,senior,0,AWS,0
+data scientist,MA,senior,0,AWS,0
+analyst,CA,senior,0,AWS,0
+other data,MA,na,0,AWS,0
+other scientist,MA,na,0,AWS,0
+data scientist,FL,senior,0,AWS,1
+data engineer,VA,na,0,AWS,1
+data engineer,AZ,na,0,AWS,1
+data scientist,CA,senior,0,AWS,0
+other data,MO,na,0,AWS,0
+data engineer,VA,na,0,AWS,0
+Consultant,IL,na,0,AWS,0
+data scientist,MA,na,0,AWS,0
+data engineer,TX,senior,0,AWS,0
+other scientist,MD,na,0,AWS,0
+data engineer,IL,na,0,AWS,0
+data engineer,IL,senior,0,AWS,0
+other scientist,MA,na,0,AWS,0
+manager,CA,na,0,AWS,0
+other scientist,KY,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data engineer,VA,na,0,AWS,0
+data engineer,CA,na,0,AWS,0
+data engineer,CA,senior,0,AWS,1
+other data,CA,na,0,AWS,0
+data scientist,OH,senior,0,AWS,0
+data engineer,IA,senior,0,AWS,0
+other scientist,CA,na,0,AWS,0
+data scientist,WA,senior,0,AWS,0
+analyst,IA,na,0,AWS,0
+director,MA,na,0,AWS,0
+director,MA,na,0,AWS,1
+other scientist,MA,senior,0,AWS,0
+analyst,PA,senior,0,AWS,0
+other scientist,CA,senior,0,AWS,0
+data engineer,CA,senior,0,AWS,1
+manager,CA,na,0,AWS,0
+data scientist,WA,senior,0,AWS,0
+data engineer,IL,na,0,AWS,0
+director,IL,na,0,AWS,0
+other scientist,NE,na,1,AWS,0
+analyst,TN,senior,1,AWS,0
+analyst,NJ,senior,0,AWS,0
+data scientist,TX,na,0,AWS,1
+other scientist,TX,senior,0,AWS,1
+other scientist,NC,senior,0,AWS,0
+analyst,AL,na,0,AWS,0
+other scientist,NC,senior,0,AWS,0
+data scientist,PA,na,0,AWS,0
+data scientist,MD,senior,0,AWS,0
+director,NJ,na,0,AWS,1
+data engineer,VA,na,0,AWS,0
+analyst,PA,senior,0,AWS,0
+data engineer,CA,senior,0,AWS,1
+data engineer,CA,senior,0,AWS,0
+analyst,NY,senior,0,AWS,0
+other scientist,MA,senior,0,AWS,1
+data scientist,NY,na,0,AWS,0
+analyst,CA,na,0,AWS,0
+other scientist,NC,senior,0,AWS,0
+other scientist,MA,senior,0,AWS,0
+mle,PA,na,0,AWS,0
+analyst,WA,na,0,AWS,1
+analyst,MD,senior,0,AWS,0
+other scientist,MA,senior,0,AWS,0
+analyst,PA,senior,0,AWS,0
+other data,CA,senior,0,AWS,1
+other scientist,MD,na,0,AWS,0
+other scientist,MA,na,1,AWS,0
+other scientist,MD,na,0,AWS,0
+manager,MA,na,0,AWS,0
+director,MA,na,0,AWS,0
+data engineer,CA,senior,0,AWS,1
+data scientist,CA,senior,0,AWS,0
+data scientist,WA,na,0,AWS,0
+Consultant,CT,na,0,AWS,0
+other scientist,MD,na,0,AWS,0
+analyst,NY,na,0,AWS,0
+data engineer,CA,na,0,AWS,1
+data scientist,NJ,na,0,AWS,1
+data scientist,NY,na,0,AWS,1
+data scientist,MO,na,0,AWS,0
+mle,VA,na,0,AWS,0
+data scientist,MD,na,0,AWS,0
+data scientist,CA,senior,0,AWS,0
+other scientist,MA,senior,0,AWS,0
+analyst,CA,na,0,AWS,0
+mle,KS,na,0,AWS,0
+data engineer,TX,na,0,AWS,0
+other scientist,TX,na,1,AWS,1
+data scientist,CA,senior,0,AWS,0
+other scientist,IL,na,0,AWS,0
+data engineer,AZ,na,0,AWS,0
+other scientist,MD,senior,0,AWS,0
+data scientist,MA,na,0,AWS,0
+data scientist,OH,senior,0,AWS,1
+data scientist,VA,senior,0,AWS,0
+data scientist,DC,na,0,AWS,0
+other scientist,CA,na,0,AWS,0
+data engineer,MA,na,0,AWS,1
+data scientist,NY,na,0,AWS,1
+data scientist,NY,na,0,AWS,0
+data scientist,IL,senior,0,AWS,1
+mle,PA,senior,0,AWS,0
+data scientist,CA,senior,0,AWS,1
+other scientist,CO,na,1,AWS,0
+analyst,UT,na,0,AWS,1
+data scientist,NY,na,0,AWS,1
+data scientist,AZ,na,0,AWS,0
+data scientist,CA,na,0,AWS,0
+data engineer,NC,na,0,AWS,0
+data engineer,CA,na,0,AWS,1
+data scientist,CA,na,0,AWS,1
+other scientist,MA,na,0,AWS,1
+data scientist,CA,senior,0,AWS,0
+data scientist,VA,jr,0,AWS,0
+data scientist,MI,senior,0,AWS,0
+analyst,CA,na,0,AWS,0
+other data,NY,na,0,AWS,1
+manager,CA,na,0,AWS,0
+analyst,NY,senior,0,AWS,0
+other data,CA,na,0,AWS,0
+data scientist,MD,senior,0,AWS,0
+data scientist,WA,na,0,AWS,0
+data engineer,TN,senior,0,AWS,0
+data scientist,NY,senior,0,AWS,0
+data engineer,CO,na,0,AWS,1
+other scientist,WI,na,0,AWS,0
+data engineer,TN,senior,0,AWS,1
+data engineer,MD,na,0,AWS,1
+data scientist,MA,senior,0,AWS,0
+director,IL,na,0,AWS,0
+mle,NY,na,0,AWS,1
+other data,MA,senior,0,AWS,0
+other scientist,DE,na,1,AWS,0
+other scientist,CA,na,0,AWS,0
+other scientist,MD,na,0,AWS,0
+data scientist,PA,na,0,AWS,1
+other scientist,NC,na,0,AWS,0
+other scientist,CA,senior,0,AWS,1
+analyst,OH,na,0,AWS,0
+data engineer,IN,senior,0,AWS,1
+analyst,FL,na,0,AWS,0
+analyst,MA,na,0,AWS,0
+analyst,NY,na,0,AWS,0
+data scientist,IL,senior,0,AWS,0
+other data,VA,senior,0,AWS,0
+other scientist,MA,na,1,AWS,0
+other scientist,NC,senior,0,AWS,0
+other scientist,CA,na,0,AWS,0
+manager,CA,na,0,AWS,0
+other scientist,GA,senior,0,AWS,0
+other scientist,NY,na,0,AWS,0
+other scientist,MA,na,0,AWS,0
+data engineer,MA,na,0,AWS,0
+mle,CA,na,0,AWS,1
+analyst,CA,senior,0,AWS,0
+manager,MA,na,0,AWS,0
+data engineer,CA,na,0,AWS,1
+other data,PA,senior,0,AWS,0
+other scientist,MA,senior,0,AWS,1
+data engineer,TN,senior,0,AWS,1
+other scientist,PA,na,0,AWS,0
+manager,PA,na,0,AWS,0
+other scientist,OH,na,0,AWS,0
+data scientist,NM,na,0,Excel,1
+data scientist,MD,na,0,Excel,0
+data scientist,FL,na,0,Excel,1
+data scientist,WA,na,0,Excel,0
+data scientist,NY,na,0,Excel,1
+data scientist,TX,na,0,Excel,1
+data scientist,MD,na,0,Excel,1
+data scientist,CA,na,0,Excel,1
+other scientist,NY,na,0,Excel,0
+data scientist,NY,na,0,Excel,0
+data scientist,CA,na,0,Excel,0
+data scientist,VA,na,0,Excel,0
+data scientist,TX,na,0,Excel,0
+analyst,WA,na,0,Excel,1
+data scientist,MA,na,0,Excel,0
+data engineer,NJ,na,0,Excel,1
+other scientist,MA,na,0,Excel,1
+data scientist,CA,na,0,Excel,1
+data scientist,CA,na,0,Excel,0
+data scientist,CO,na,0,Excel,1
+data scientist,WA,na,0,Excel,0
+data scientist,TX,senior,0,Excel,1
+data scientist,IL,na,0,Excel,1
+data scientist,KY,na,0,Excel,1
+data scientist,VA,na,0,Excel,0
+data scientist,MA,na,0,Excel,1
+data scientist,OR,na,0,Excel,1
+analyst,MA,na,0,Excel,1
+data scientist,CT,na,0,Excel,1
+data scientist,FL,na,0,Excel,1
+data scientist,WA,na,0,Excel,0
+data scientist,MI,na,0,Excel,0
+data scientist,MA,na,0,Excel,0
+data scientist,CA,na,0,Excel,1
+data scientist,MA,na,0,Excel,1
+analyst,CA,na,0,Excel,1
+data scientist,CA,na,0,Excel,0
+data scientist,MA,na,0,Excel,1
+data scientist,CA,senior,0,Excel,1
+data engineer,NY,na,0,Excel,1
+analyst,CA,na,0,Excel,1
+data engineer,MA,na,0,Excel,1
+data scientist,CA,na,0,Excel,0
+other scientist,NJ,na,0,Excel,0
+data scientist,IL,senior,0,Excel,1
+data scientist,DC,na,0,Excel,1
+data scientist,WA,senior,0,Excel,1
+analyst,CO,na,0,Excel,1
+other scientist,OH,na,0,Excel,0
+data scientist,IL,na,0,Excel,0
+data scientist,FL,na,0,Excel,1
+data scientist,MA,na,0,Excel,0
+analyst,AL,na,0,Excel,1
+data scientist,NY,na,0,Excel,1
+data scientist,CA,na,0,Excel,1
+data scientist,NM,na,0,Excel,1
+data scientist,CA,na,0,Excel,1
+data scientist,MO,na,0,Excel,0
+data scientist,MD,na,0,Excel,1
+data scientist,TX,na,0,Excel,1
+data scientist,OH,senior,0,Excel,0
+data scientist,NY,na,0,Excel,0
+data scientist,CA,senior,0,Excel,0
+data scientist,WA,na,0,Excel,0
+data scientist,PA,na,0,Excel,0
+data scientist,MA,na,0,Excel,1
+data scientist,GA,na,0,Excel,1
+data scientist,MA,na,0,Excel,0
+data scientist,PA,na,0,Excel,0
+other scientist,WA,na,0,Excel,0
+Consultant,IN,na,0,Excel,0
+director,IL,na,0,Excel,1
+other scientist,MO,na,0,Excel,1
+data scientist,VA,senior,0,Excel,0
+data scientist,PA,na,0,Excel,0
+data scientist,WA,senior,0,Excel,0
+data scientist,CA,na,0,Excel,1
+other scientist,MA,na,0,Excel,0
+data scientist,VA,na,0,Excel,1
+data scientist,CA,na,0,Excel,1
+data scientist,CA,na,0,Excel,0
+analyst,PA,jr,0,Excel,1
+data scientist,MD,na,0,Excel,1
+analyst,IL,na,0,Excel,1
+data engineer,VA,na,0,Excel,1
+analyst,WA,na,0,Excel,1
+data scientist,TX,na,0,Excel,0
+data scientist,CA,na,0,Excel,1
+data scientist,FL,na,0,Excel,1
+other data,AL,na,0,Excel,1
+analyst,LA,na,0,Excel,1
+other scientist,CA,senior,0,Excel,1
+data scientist,GA,na,0,Excel,0
+other data,MD,na,0,Excel,0
+analyst,MD,na,0,Excel,1
+other scientist,MD,na,0,Excel,0
+data scientist,VA,na,0,Excel,1
+data scientist,VA,na,0,Excel,1
+analyst,WI,na,0,Excel,1
+data scientist,MD,senior,0,Excel,0
+data scientist,NY,na,0,Excel,0
+data scientist,NY,na,0,Excel,0
+data scientist,TX,na,0,Excel,0
+data scientist,DC,senior,0,Excel,1
+data engineer,NC,na,0,Excel,0
+data scientist,MI,senior,0,Excel,1
+analyst,NJ,na,0,Excel,1
+analyst,AZ,senior,0,Excel,1
+other scientist,NE,na,0,Excel,1
+data scientist,CA,na,0,Excel,0
+data engineer,NJ,na,0,Excel,0
+data scientist,MA,na,0,Excel,0
+data scientist,NY,na,0,Excel,0
+data scientist,CA,na,0,Excel,1
+data engineer,CA,na,0,Excel,0
+data scientist,IN,na,0,Excel,0
+data scientist,MD,na,0,Excel,0
+data engineer,MN,na,0,Excel,0
+data scientist,CA,na,0,Excel,0
+data engineer,NC,senior,0,Excel,0
+data scientist,MA,na,0,Excel,1
+data scientist,OH,na,0,Excel,0
+data engineer,DC,na,0,Excel,0
+data engineer,IL,na,0,Excel,1
+analyst,MD,na,0,Excel,1
+other scientist,AL,na,0,Excel,0
+data scientist,CA,na,0,Excel,1
+manager,MO,na,0,Excel,1
+data scientist,VA,senior,0,Excel,0
+data scientist,IL,na,0,Excel,1
+data scientist,VA,senior,0,Excel,0
+data scientist,TX,na,0,Excel,1
+other scientist,CA,na,0,Excel,1
+other scientist,CA,na,0,Excel,1
+mle,CO,na,0,Excel,1
+data scientist,NY,na,0,Excel,1
+data scientist,VA,na,0,Excel,0
+data scientist,CA,na,0,Excel,1
+data engineer,FL,na,0,Excel,0
+data engineer,IL,na,0,Excel,1
+data scientist,CO,senior,0,Excel,0
+data engineer,UT,na,0,Excel,1
+analyst,CA,na,0,Excel,1
+other scientist,PA,senior,0,Excel,1
+data scientist,WA,na,0,Excel,0
+data engineer,DC,na,0,Excel,0
+data scientist,IL,na,0,Excel,1
+data scientist,OH,senior,0,Excel,1
+data engineer,TN,na,0,Excel,1
+data scientist,WA,senior,0,Excel,0
+analyst,FL,senior,0,Excel,1
+other data,IN,senior,0,Excel,0
+data engineer,MA,na,0,Excel,0
+manager,NJ,na,0,Excel,1
+data scientist,MA,senior,0,Excel,0
+data scientist,CA,senior,0,Excel,1
+data scientist,CA,senior,0,Excel,1
+other scientist,MA,na,0,Excel,1
+data scientist,MD,na,0,Excel,1
+data scientist,CA,na,0,Excel,0
+data scientist,TX,senior,0,Excel,1
+data scientist,CA,na,0,Excel,0
+data engineer,UT,na,0,Excel,1
+other scientist,MA,senior,0,Excel,1
+analyst,VA,senior,0,Excel,1
+other scientist,PA,na,1,Excel,0
+data scientist,WI,na,0,Excel,0
+other scientist,MA,na,0,Excel,0
+data scientist,CA,senior,0,Excel,0
+manager,MI,na,0,Excel,1
+data engineer,FL,na,0,Excel,1
+analyst,CA,na,0,Excel,1
+other scientist,CA,senior,0,Excel,1
+analyst,NJ,senior,0,Excel,1
+other scientist,MA,senior,0,Excel,1
+data scientist,NJ,senior,0,Excel,1
+data scientist,CA,senior,0,Excel,1
+other scientist,DE,na,1,Excel,0
+other scientist,MA,senior,0,Excel,0
+data scientist,NY,senior,0,Excel,0
+analyst,MO,na,0,Excel,1
+mle,PA,na,0,Excel,0
+other data,AZ,na,0,Excel,1
+data scientist,CA,senior,0,Excel,0
+analyst,AL,na,0,Excel,1
+data scientist,MA,senior,0,Excel,1
+other scientist,MA,na,0,Excel,1
+mle,IL,senior,0,Excel,0
+data scientist,UT,senior,0,Excel,0
+data engineer,LA,na,0,Excel,1
+other scientist,NY,senior,0,Excel,0
+other data,MD,na,0,Excel,1
+other scientist,MA,senior,0,Excel,0
+mle,CA,na,0,Excel,0
+other scientist,NY,senior,0,Excel,0
+data engineer,CA,senior,0,Excel,0
+analyst,CA,na,0,Excel,1
+other scientist,TX,na,1,Excel,0
+other scientist,IL,na,0,Excel,0
+mle,PA,senior,0,Excel,0
+manager,CA,na,0,Excel,0
+data engineer,TN,senior,0,Excel,0
+other scientist,DE,na,1,Excel,0
+other scientist,WI,na,0,Excel,0
+other scientist,MD,na,0,Excel,1
+data engineer,IL,senior,0,Excel,0
+data scientist,IL,na,0,Excel,1
+data scientist,VA,na,0,Excel,1
+data scientist,WI,senior,0,Excel,0
+analyst,NY,na,0,Excel,1
+other scientist,LA,na,1,Excel,0
+data scientist,TX,na,0,Excel,1
+analyst,FL,senior,0,Excel,1
+manager,NJ,na,0,Excel,1
+data engineer,MA,na,0,Excel,0
+data scientist,IL,na,0,Excel,0
+analyst,CA,na,0,Excel,1
+data scientist,VA,na,0,Excel,0
+analyst,OH,na,0,Excel,0
+data scientist,MA,senior,0,Excel,0
+data scientist,CA,senior,0,Excel,1
+data scientist,CA,senior,0,Excel,1
+analyst,CA,na,0,Excel,1
+other scientist,MA,na,0,Excel,1
+analyst,CA,na,0,Excel,1
+analyst,ID,na,0,Excel,1
+data scientist,CA,na,0,Excel,0
+data scientist,MD,na,0,Excel,1
+analyst,NJ,na,0,Excel,1
+data scientist,IN,na,0,Excel,0
+data engineer,UT,na,0,Excel,1
+data scientist,MA,na,0,Excel,1
+data scientist,KY,na,0,Excel,1
+other data,NY,na,0,Excel,1
+other scientist,MA,senior,0,Excel,1
+data engineer,TN,na,0,Excel,1
+data engineer,IL,na,0,Excel,0
+analyst,VA,senior,0,Excel,1
+data scientist,OR,na,0,Excel,0
+analyst,MN,na,0,Excel,1
+data scientist,NY,na,0,Excel,1
+data scientist,TX,na,0,Excel,1
+data scientist,WI,na,0,Excel,0
+data scientist,CA,na,0,Excel,1
+analyst,RI,senior,0,Excel,0
+other scientist,NE,na,0,Excel,1
+other scientist,PA,na,1,Excel,0
+analyst,DC,na,0,Excel,1
+data engineer,TX,na,0,Excel,0
+data scientist,OH,na,0,Excel,0
+data scientist,CA,senior,0,Excel,0
+data scientist,NC,na,0,Excel,1
+other scientist,MA,na,0,Excel,0
+manager,MI,na,0,Excel,1
+data scientist,CT,na,0,Excel,1
+data scientist,VA,na,0,Excel,0
+data scientist,PA,senior,0,Excel,1
+data engineer,FL,na,0,Excel,1
+data scientist,CA,na,0,Excel,0
+other scientist,CA,senior,0,Excel,1
+analyst,CA,na,0,Excel,1
+other scientist,MA,senior,0,Excel,1
+analyst,NJ,senior,0,Excel,1
+analyst,ID,na,0,Excel,1
+data scientist,CA,na,0,Excel,0
+data scientist,TN,na,0,Excel,0
+data scientist,CA,senior,0,Excel,1
+data engineer,CA,na,0,Excel,1
+data scientist,NJ,senior,0,Excel,1
+data engineer,IA,na,0,Excel,1
+other scientist,MA,senior,0,Excel,0
+other scientist,DE,na,1,Excel,0
+data scientist,NY,senior,0,Excel,0
+data scientist,CA,na,0,Excel,1
+analyst,NJ,na,0,Excel,0
+analyst,MO,na,0,Excel,1
+mle,PA,na,0,Excel,0
+data scientist,NY,na,0,Excel,0
+data scientist,OR,na,0,Excel,1
+data scientist,MI,na,0,Excel,0
+data scientist,DC,na,0,Excel,1
+data scientist,CA,senior,0,Excel,0
+data scientist,VA,senior,0,Excel,0
+data scientist,CA,senior,0,Excel,1
+other data,AZ,na,0,Excel,1
+analyst,AL,na,0,Excel,1
+other data,CA,na,0,Excel,0
+data engineer,TX,na,0,Excel,0
+data scientist,NY,senior,0,Excel,1
+data engineer,MA,na,0,Excel,1
+other scientist,SC,na,0,Excel,0
+data scientist,MA,senior,0,Excel,1
+other scientist,CA,na,0,Excel,1
+analyst,MA,senior,0,Excel,0
+mle,IL,senior,0,Excel,0
+analyst,DC,na,0,Excel,1
+data engineer,VA,na,0,Excel,0
+data scientist,MA,senior,0,Excel,0
+data engineer,CA,senior,0,Excel,1
+other scientist,TX,na,0,Excel,0
+other data,CA,senior,0,Excel,1
+data engineer,IN,na,0,Excel,0
+data scientist,MA,na,0,Excel,0
+data scientist,CA,na,0,Excel,1
+data scientist,TX,senior,0,Excel,0
+other scientist,MA,na,0,Excel,1
+analyst,VA,na,0,Excel,0
+data engineer,LA,na,0,Excel,1
+data scientist,WA,na,0,Excel,0
+data engineer,MA,na,0,Excel,1
+data scientist,UT,senior,0,Excel,0
+other data,VA,na,0,Excel,0
+other scientist,NY,senior,0,Excel,0
+other scientist,MA,senior,0,Excel,0
+data scientist,CA,na,0,Excel,0
+analyst,FL,na,0,Excel,0
+other data,MD,na,0,Excel,1
+data engineer,VA,na,0,Excel,0
+data engineer,TX,na,0,Excel,0
+data engineer,DC,na,0,Excel,1
+data scientist,NC,senior,0,Excel,1
+data engineer,CA,na,0,Excel,0
+analyst,PA,na,0,Excel,0
+other scientist,NY,senior,0,Excel,0
+analyst,VA,na,0,Excel,1
+director,MA,na,0,Excel,0
+data scientist,CA,na,0,Excel,0
+data scientist,MA,na,0,Excel,1
+mle,CA,na,0,Excel,0
+analyst,IL,na,0,Excel,0
+data engineer,CA,senior,0,Excel,0
+other scientist,KY,na,0,Excel,0
+manager,MA,na,0,Excel,1
+Consultant,CT,na,0,Excel,1
+data engineer,CA,na,0,Excel,1
+analyst,CA,na,0,Excel,1
+other scientist,MA,senior,0,Excel,1
+other scientist,TX,na,1,Excel,0
+mle,KS,na,0,Excel,1
+other scientist,IL,na,0,Excel,0
+data engineer,NY,na,0,Excel,1
+other scientist,CA,na,0,Excel,1
+data engineer,MA,na,0,Excel,1
+mle,PA,senior,0,Excel,0
+data scientist,IL,senior,0,Excel,1
+other scientist,CO,na,1,Excel,0
+manager,CA,na,0,Excel,0
+data engineer,TN,senior,0,Excel,0
+data scientist,CA,na,0,Excel,0
+data scientist,NY,senior,0,Excel,0
+data engineer,CO,na,0,Excel,0
+other scientist,WI,na,0,Excel,0
+data scientist,MA,senior,0,Excel,0
+data engineer,MD,na,0,Excel,0
+director,IL,na,0,Excel,0
+other scientist,CA,na,0,Excel,0
+other scientist,MD,na,0,Excel,1
+other scientist,DE,na,1,Excel,0
+other scientist,NC,na,0,Excel,1
+analyst,OH,na,0,Excel,0
+data engineer,IN,senior,0,Excel,0
+data scientist,IL,senior,0,Excel,1
+other data,VA,senior,0,Excel,0
+other scientist,MA,na,1,Excel,1
+other scientist,NC,senior,0,Excel,1
+other scientist,CA,na,0,Excel,0
+manager,CA,na,0,Excel,1
+other scientist,NY,na,0,Excel,1
+other scientist,GA,senior,0,Excel,1
+data engineer,MA,na,0,Excel,1
+other scientist,MA,na,0,Excel,1
+other scientist,PA,na,0,Excel,1
+data scientist,FL,na,0,Excel,1
+data scientist,DC,na,0,Excel,1
+other data,MA,na,0,Excel,1
+data scientist,NY,senior,0,Excel,1
+analyst,WI,na,0,Excel,1
+data scientist,CA,senior,0,Excel,1
+analyst,NY,na,0,Excel,1
+data engineer,NC,senior,0,Excel,0
+analyst,NY,senior,0,Excel,1
+other data,IN,na,0,Excel,1
+other scientist,CA,na,0,Excel,1
+other data,MA,na,0,Excel,1
+data engineer,AZ,senior,0,Excel,0
+data engineer,VA,na,0,Excel,0
+data scientist,FL,senior,0,Excel,0
+Consultant,IL,na,0,Excel,0
+other data,MO,na,0,Excel,1
+data engineer,TX,senior,0,Excel,0
+data scientist,MA,na,0,Excel,1
+other scientist,MA,na,0,Excel,0
+other scientist,MD,na,0,Excel,0
+other scientist,KY,na,0,Excel,0
+data engineer,IL,senior,0,Excel,0
+data engineer,CA,senior,0,Excel,1
+other data,CA,na,0,Excel,1
+data scientist,OH,senior,0,Excel,1
+data scientist,IL,na,0,Excel,0
+data scientist,IL,senior,0,Excel,1
+data engineer,IA,senior,0,Excel,1
+data scientist,WA,senior,0,Excel,0
+analyst,IA,na,0,Excel,1
+director,MA,na,0,Excel,1
+other scientist,MA,senior,0,Excel,0
+analyst,PA,senior,0,Excel,1
+data engineer,CA,senior,0,Excel,0
+data scientist,WA,senior,0,Excel,0
+other scientist,NE,na,1,Excel,0
+analyst,TN,senior,1,Excel,1
+director,IL,na,0,Excel,0
+other scientist,TX,senior,0,Excel,1
+data scientist,TX,na,0,Excel,0
+other scientist,NC,senior,0,Excel,1
+analyst,AL,na,0,Excel,1
+other scientist,NC,senior,0,Excel,0
+director,NJ,na,0,Excel,1
+analyst,PA,senior,0,Excel,1
+data engineer,CA,senior,0,Excel,1
+data engineer,CA,senior,0,Excel,0
+data scientist,NY,na,0,Excel,0
+other scientist,NC,senior,0,Excel,1
+data scientist,NM,na,0,Excel,1
+data scientist,MO,na,0,Excel,0
+data scientist,VA,na,0,Excel,0
+data engineer,MA,na,0,Excel,1
+data scientist,WA,na,0,Excel,0
+data scientist,UT,senior,0,Excel,0
+data scientist,NJ,na,0,Excel,1
+mle,CA,senior,0,Excel,0
+data scientist,CA,na,0,Excel,0
+other data,VA,na,0,Excel,0
+other scientist,NY,senior,0,Excel,0
+data scientist,CA,na,0,Excel,0
+data scientist,CA,na,0,Excel,0
+data scientist,CA,na,0,Excel,1
+data scientist,NY,na,0,Excel,1
+data scientist,NY,na,0,Excel,0
+data engineer,PA,na,0,Excel,1
+other scientist,MA,senior,0,Excel,0
+data scientist,CA,na,0,Excel,0
+other data,MD,na,0,Excel,1
+analyst,FL,na,0,Excel,0
+data engineer,TX,na,0,Excel,0
+data engineer,DC,na,0,Excel,1
+data engineer,VA,na,0,Excel,0
+data engineer,CA,na,0,Excel,0
+data scientist,VA,na,0,Excel,1
+data scientist,CA,na,0,Excel,1
+data scientist,CA,na,0,Excel,0
+data scientist,NC,senior,0,Excel,1
+data scientist,CA,na,0,Excel,1
+data scientist,CA,na,0,Excel,0
+data scientist,VA,na,0,Excel,0
+analyst,NY,na,0,Excel,1
+data scientist,NY,na,0,Excel,0
+data scientist,NY,na,0,Excel,0
+data engineer,CA,na,0,Excel,0
+data scientist,CA,na,0,Excel,0
+data scientist,NY,na,0,Excel,1
+data scientist,NY,na,0,Excel,1
+data scientist,MA,na,0,Excel,1
+data scientist,NY,na,0,Excel,1
+data engineer,NY,na,0,Excel,1
+analyst,PA,na,0,Excel,0
+data scientist,MA,na,0,Excel,0
+data scientist,NY,senior,0,Excel,0
+other scientist,NY,senior,0,Excel,0
+analyst,VA,na,0,Excel,1
+data engineer,OR,na,0,Excel,0
+director,MA,na,0,Excel,0
+mle,CA,na,0,Excel,0
+data scientist,CA,na,0,Excel,1
+data scientist,WA,senior,0,Excel,1
+data scientist,NY,senior,0,Excel,0
+analyst,IL,na,0,Excel,0
+data engineer,CA,senior,0,Excel,0
+analyst,NY,na,0,Excel,1
+other scientist,KY,na,0,Excel,0
+Consultant,CT,na,0,Excel,1
+manager,MA,na,0,Excel,1
+analyst,NY,na,0,Excel,1
+data engineer,CA,na,0,Excel,1
+data scientist,NY,na,0,Excel,0
+mle,VA,na,0,Excel,0
+data scientist,MD,senior,0,Excel,1
+data scientist,MD,na,0,Excel,1
+data scientist,CA,senior,0,Excel,0
+other scientist,MA,senior,0,Excel,1
+mle,KS,na,0,Excel,1
+analyst,CA,na,0,Excel,1
+data engineer,TX,na,0,Excel,1
+other scientist,TX,na,1,Excel,0
+other scientist,IL,na,0,Excel,0
+data scientist,CA,senior,0,Excel,0
+data engineer,AZ,na,0,Excel,0
+data scientist,NY,na,0,Excel,0
+data scientist,MA,na,0,Excel,0
+other scientist,MD,senior,0,Excel,0
+data scientist,MA,na,0,Excel,1
+data engineer,NY,na,0,Excel,1
+other scientist,CA,na,0,Excel,1
+data scientist,NY,na,0,Excel,1
+data engineer,MA,na,0,Excel,1
+mle,PA,senior,0,Excel,0
+data scientist,NY,na,0,Excel,0
+data scientist,IL,senior,0,Excel,1
+data scientist,CA,senior,0,Excel,1
+data scientist,NY,na,0,Excel,1
+other scientist,CO,na,1,Excel,0
+data engineer,NC,na,0,Excel,1
+analyst,UT,na,0,Excel,1
+data engineer,CA,na,0,Excel,1
+other scientist,MA,na,0,Excel,0
+data scientist,CA,senior,0,Excel,1
+analyst,CA,na,0,Excel,1
+analyst,NY,senior,0,Excel,0
+manager,CA,na,0,Excel,0
+other data,CA,na,0,Excel,1
+data scientist,NY,senior,0,Excel,0
+data engineer,TN,senior,0,Excel,0
+data scientist,NY,na,0,Excel,1
+data scientist,CO,senior,0,Excel,1
+data engineer,CO,na,0,Excel,0
+other scientist,WI,na,0,Excel,0
+data engineer,TN,senior,0,Excel,1
+data engineer,MD,na,0,Excel,0
+data scientist,MA,senior,0,Excel,0
+director,IL,na,0,Excel,0
+mle,NY,na,0,Excel,1
+other data,MA,senior,0,Excel,0
+other scientist,CA,na,0,Excel,0
+other scientist,MD,na,0,Excel,1
+other scientist,DE,na,1,Excel,0
+other scientist,NC,na,0,Excel,1
+analyst,OH,na,0,Excel,0
+analyst,MA,na,0,Excel,0
+data engineer,IN,senior,0,Excel,0
+analyst,FL,na,0,Excel,1
+analyst,NY,na,0,Excel,1
+data scientist,IL,senior,0,Excel,1
+other data,VA,senior,0,Excel,0
+other scientist,MA,na,1,Excel,1
+other scientist,NC,senior,0,Excel,1
+other scientist,CA,na,0,Excel,0
+other scientist,NY,na,0,Excel,1
+manager,CA,na,0,Excel,1
+other scientist,GA,senior,0,Excel,1
+data scientist,GA,na,0,Excel,1
+data scientist,CA,na,0,Excel,1
+data engineer,MA,na,0,Excel,1
+other scientist,MA,na,0,Excel,1
+analyst,CA,senior,0,Excel,0
+other data,PA,senior,0,Excel,0
+manager,MA,na,0,Excel,1
+other scientist,MA,senior,0,Excel,0
+data engineer,TN,senior,0,Excel,0
+other scientist,PA,na,0,Excel,1
+other scientist,OH,na,0,Excel,0
+manager,PA,na,0,Excel,1
+analyst,UT,na,0,Excel,0
+other data,MA,na,0,Excel,1
+analyst,UT,na,0,Excel,1
+data engineer,AL,na,0,Excel,1
+analyst,WI,na,0,Excel,1
+data scientist,NY,senior,0,Excel,1
+analyst,NY,na,0,Excel,1
+analyst,VA,senior,0,Excel,0
+analyst,NY,senior,0,Excel,1
+data engineer,VA,senior,0,Excel,0
+data engineer,NC,senior,0,Excel,0
+other data,MA,na,0,Excel,1
+other data,IN,na,0,Excel,1
+data scientist,MA,na,0,Excel,0
+data scientist,NY,na,0,Excel,0
+manager,PA,na,0,Excel,0
+other scientist,CA,na,0,Excel,1
+data engineer,AZ,senior,0,Excel,0
+data scientist,MA,senior,0,Excel,0
+analyst,CA,senior,0,Excel,0
+other data,MA,na,0,Excel,1
+other scientist,MA,na,0,Excel,1
+data scientist,FL,senior,0,Excel,0
+data engineer,VA,na,0,Excel,0
+data engineer,AZ,na,0,Excel,0
+data scientist,CA,senior,0,Excel,1
+other data,MO,na,0,Excel,1
+data engineer,VA,na,0,Excel,0
+Consultant,IL,na,0,Excel,0
+data scientist,MA,na,0,Excel,1
+data engineer,TX,senior,0,Excel,0
+other scientist,MD,na,0,Excel,0
+data engineer,IL,na,0,Excel,1
+data engineer,IL,senior,0,Excel,0
+other scientist,MA,na,0,Excel,0
+manager,CA,na,0,Excel,0
+other scientist,KY,na,0,Excel,0
+data scientist,CA,na,0,Excel,1
+data engineer,VA,na,0,Excel,0
+data engineer,CA,na,0,Excel,0
+data engineer,CA,senior,0,Excel,1
+other data,CA,na,0,Excel,1
+data scientist,OH,senior,0,Excel,1
+data engineer,IA,senior,0,Excel,1
+other scientist,CA,na,0,Excel,1
+data scientist,WA,senior,0,Excel,0
+analyst,IA,na,0,Excel,1
+director,MA,na,0,Excel,1
+director,MA,na,0,Excel,0
+other scientist,MA,senior,0,Excel,0
+analyst,PA,senior,0,Excel,1
+other scientist,CA,senior,0,Excel,1
+data engineer,CA,senior,0,Excel,0
+manager,CA,na,0,Excel,1
+data scientist,WA,senior,0,Excel,0
+data engineer,IL,na,0,Excel,0
+director,IL,na,0,Excel,0
+other scientist,NE,na,1,Excel,0
+analyst,TN,senior,1,Excel,1
+analyst,NJ,senior,0,Excel,1
+data scientist,TX,na,0,Excel,0
+other scientist,TX,senior,0,Excel,1
+other scientist,NC,senior,0,Excel,1
+analyst,AL,na,0,Excel,1
+other scientist,NC,senior,0,Excel,0
+data scientist,PA,na,0,Excel,0
+data scientist,MD,senior,0,Excel,1
+director,NJ,na,0,Excel,1
+data engineer,VA,na,0,Excel,1
+analyst,PA,senior,0,Excel,1
+data engineer,CA,senior,0,Excel,1
+data engineer,CA,senior,0,Excel,0
+analyst,NY,senior,0,Excel,1
+other scientist,MA,senior,0,Excel,1
+data scientist,NY,na,0,Excel,0
+analyst,CA,na,0,Excel,1
+other scientist,NC,senior,0,Excel,1
+other scientist,MA,senior,0,Excel,0
+mle,PA,na,0,Excel,0
+analyst,WA,na,0,Excel,1
+analyst,MD,senior,0,Excel,0
+other scientist,MA,senior,0,Excel,0
+analyst,PA,senior,0,Excel,1
+other data,CA,senior,0,Excel,0
+other scientist,MD,na,0,Excel,1
+other scientist,MA,na,1,Excel,1
+other scientist,MD,na,0,Excel,0
+manager,MA,na,0,Excel,1
+director,MA,na,0,Excel,0
+data engineer,CA,senior,0,Excel,0
+data scientist,CA,senior,0,Excel,0
+data scientist,WA,na,0,Excel,0
+Consultant,CT,na,0,Excel,1
+other scientist,MD,na,0,Excel,0
+analyst,NY,na,0,Excel,1
+data engineer,CA,na,0,Excel,1
+data scientist,NJ,na,0,Excel,1
+data scientist,NY,na,0,Excel,0
+data scientist,MO,na,0,Excel,1
+mle,VA,na,0,Excel,0
+data scientist,MD,na,0,Excel,1
+data scientist,CA,senior,0,Excel,0
+other scientist,MA,senior,0,Excel,1
+analyst,CA,na,0,Excel,1
+mle,KS,na,0,Excel,1
+data engineer,TX,na,0,Excel,1
+other scientist,TX,na,1,Excel,0
+data scientist,CA,senior,0,Excel,0
+other scientist,IL,na,0,Excel,0
+data engineer,AZ,na,0,Excel,0
+other scientist,MD,senior,0,Excel,0
+data scientist,MA,na,0,Excel,1
+data scientist,OH,senior,0,Excel,0
+data scientist,VA,senior,0,Excel,0
+data scientist,DC,na,0,Excel,0
+other scientist,CA,na,0,Excel,1
+data engineer,MA,na,0,Excel,1
+data scientist,NY,na,0,Excel,0
+data scientist,NY,na,0,Excel,1
+data scientist,IL,senior,0,Excel,1
+mle,PA,senior,0,Excel,0
+data scientist,CA,senior,0,Excel,1
+other scientist,CO,na,1,Excel,0
+analyst,UT,na,0,Excel,1
+data scientist,NY,na,0,Excel,1
+data scientist,AZ,na,0,Excel,1
+data scientist,CA,na,0,Excel,0
+data engineer,NC,na,0,Excel,1
+data engineer,CA,na,0,Excel,1
+data scientist,CA,na,0,Excel,0
+other scientist,MA,na,0,Excel,0
+data scientist,CA,senior,0,Excel,1
+data scientist,VA,jr,0,Excel,1
+data scientist,MI,senior,0,Excel,1
+analyst,CA,na,0,Excel,1
+other data,NY,na,0,Excel,1
+manager,CA,na,0,Excel,0
+analyst,NY,senior,0,Excel,0
+other data,CA,na,0,Excel,1
+data scientist,MD,senior,0,Excel,1
+data scientist,WA,na,0,Excel,0
+data engineer,TN,senior,0,Excel,0
+data scientist,NY,senior,0,Excel,0
+data engineer,CO,na,0,Excel,0
+other scientist,WI,na,0,Excel,0
+data engineer,TN,senior,0,Excel,1
+data engineer,MD,na,0,Excel,0
+data scientist,MA,senior,0,Excel,0
+director,IL,na,0,Excel,0
+mle,NY,na,0,Excel,1
+other data,MA,senior,0,Excel,0
+other scientist,DE,na,1,Excel,0
+other scientist,CA,na,0,Excel,0
+other scientist,MD,na,0,Excel,1
+data scientist,PA,na,0,Excel,0
+other scientist,NC,na,0,Excel,1
+other scientist,CA,senior,0,Excel,1
+analyst,OH,na,0,Excel,0
+data engineer,IN,senior,0,Excel,0
+analyst,FL,na,0,Excel,1
+analyst,MA,na,0,Excel,0
+analyst,NY,na,0,Excel,1
+data scientist,IL,senior,0,Excel,1
+other data,VA,senior,0,Excel,0
+other scientist,MA,na,1,Excel,1
+other scientist,NC,senior,0,Excel,1
+other scientist,CA,na,0,Excel,0
+manager,CA,na,0,Excel,1
+other scientist,GA,senior,0,Excel,1
+other scientist,NY,na,0,Excel,1
+other scientist,MA,na,0,Excel,1
+data engineer,MA,na,0,Excel,1
+mle,CA,na,0,Excel,1
+analyst,CA,senior,0,Excel,0
+manager,MA,na,0,Excel,1
+data engineer,CA,na,0,Excel,1
+other data,PA,senior,0,Excel,0
+other scientist,MA,senior,0,Excel,0
+data engineer,TN,senior,0,Excel,0
+other scientist,PA,na,0,Excel,1
+manager,PA,na,0,Excel,1
+other scientist,OH,na,0,Excel,0

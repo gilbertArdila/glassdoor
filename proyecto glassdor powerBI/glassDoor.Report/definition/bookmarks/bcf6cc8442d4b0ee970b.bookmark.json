@@ -1,0 +1,84 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/bookmark/2.1.0/schema.json",
+  "displayName": "Menú cerrado CA",
+  "name": "bcf6cc8442d4b0ee970b",
+  "options": {
+    "targetVisualNames": [
+      "bb354cd8d3e373594459"
+    ]
+  },
+  "explorationState": {
+    "version": "1.3",
+    "activeSection": "8dcf28a21feb0072e7b3",
+    "sections": {
+      "8dcf28a21feb0072e7b3": {
+        "visualContainers": {
+          "f99ad52ffdf71cefdd3f": {
+            "singleVisual": {
+              "visualType": "actionButton",
+              "objects": {}
+            }
+          },
+          "60bde440720579fae21c": {
+            "singleVisual": {
+              "visualType": "actionButton",
+              "objects": {}
+            }
+          },
+          "b5de68231f188e5f4a1c": {
+            "singleVisual": {
+              "visualType": "actionButton",
+              "objects": {}
+            }
+          },
+          "86abf22a31d9f0ab7985": {
+            "singleVisual": {
+              "visualType": "shape",
+              "objects": {}
+            }
+          },
+          "8b6bb66f6c8258d2f56c": {
+            "singleVisual": {
+              "visualType": "actionButton",
+              "objects": {}
+            }
+          },
+          "8eec51a473e10593b892": {
+            "singleVisual": {
+              "visualType": "actionButton",
+              "objects": {}
+            }
+          },
+          "bb354cd8d3e373594459": {
+            "singleVisual": {
+              "visualType": "actionButton",
+              "objects": {}
+            }
+          }
+        },
+        "visualContainerGroups": {
+          "f78dbe14b898cb7ca271": {
+            "isHidden": true
+          }
+        }
+      }
+    },
+    "objects": {
+      "merge": {
+        "outspacePane": [
+          {
+            "properties": {
+              "expanded": {
+                "expr": {
+                  "Literal": {
+                    "Value": "false"
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

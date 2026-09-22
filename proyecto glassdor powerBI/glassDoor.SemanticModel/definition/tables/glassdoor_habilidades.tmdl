@@ -1,0 +1,67 @@
+table glassdoor_habilidades
+	lineageTag: 8c20581d-0003-4bc4-830b-7f409e14b9b1
+
+	measure %_requerido_habilidades = AVERAGE(glassdoor_habilidades[Requerido])
+		formatString: 0.0\ %;-0.0\ %;0.0\ %
+		lineageTag: 0a9dae06-1fcc-4d39-a765-938c8f47df3b
+
+	column job_simp
+		dataType: string
+		lineageTag: c6a973de-b6cb-4fe5-a037-2be12c7b65c2
+		summarizeBy: none
+		sourceColumn: job_simp
+
+		annotation SummarizationSetBy = Automatic
+
+	column job_state
+		dataType: string
+		lineageTag: 4781467f-f71b-42ab-b3e7-c7d17ff65504
+		summarizeBy: none
+		sourceColumn: job_state
+
+		annotation SummarizationSetBy = Automatic
+
+	column seniority
+		dataType: string
+		lineageTag: 8b135fb4-7773-4d71-9da7-3e5bc6364b7b
+		summarizeBy: none
+		sourceColumn: seniority
+
+		annotation SummarizationSetBy = Automatic
+
+	column hourly
+		dataType: int64
+		formatString: 0
+		lineageTag: 70f7d873-8fe4-462e-abd9-471bfea299b7
+		summarizeBy: sum
+		sourceColumn: hourly
+
+		annotation SummarizationSetBy = Automatic
+
+	column Herramienta
+		dataType: string
+		lineageTag: 6b5f05e9-004d-4dbd-b8df-25d5255ab9b4
+		summarizeBy: none
+		sourceColumn: Herramienta
+
+		annotation SummarizationSetBy = Automatic
+
+	column Requerido
+		dataType: int64
+		formatString: 0
+		lineageTag: deef60be-ea62-4f22-b170-9751eadce78f
+		summarizeBy: sum
+		sourceColumn: Requerido
+
+		annotation SummarizationSetBy = Automatic
+
+	partition glassdoor_habilidades = m
+		mode: import
+		source =
+				let
+				  Origen = Csv.Document(File.Contents("C:\Users\G_Ardila\OneDrive\Desktop\glassdoor_habilidades.csv"), [Delimiter = ",", Columns = 6, Encoding = 65001, QuoteStyle = QuoteStyle.None]),
+				  #"Encabezados promovidos" = Table.PromoteHeaders(Origen, [PromoteAllScalars = true]),
+				  #"Tipo de columna cambiado" = Table.TransformColumnTypes(#"Encabezados promovidos", {{"job_simp", type text}, {"job_state", type text}, {"seniority", type text}, {"hourly", Int64.Type}, {"Herramienta", type text}, {"Requerido", Int64.Type}}, "es")
+				in
+				  #"Tipo de columna cambiado"
+

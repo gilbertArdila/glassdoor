@@ -1,0 +1,295 @@
+table glassDoor
+	lineageTag: e9e65a10-096e-41c5-bf56-bf38e90ef6e2
+
+	measure Total_ofertas = COUNTROWS(glassDoor)
+		formatString: 0
+		lineageTag: 764fe2df-f7c8-451f-882a-0b0b3e6200fe
+
+	measure Ofertas_anuales =
+			CALCULATE(
+			    [Total_ofertas],
+			    glassDoor[hourly] = 0
+			)
+		formatString: 0
+		lineageTag: 89a11b62-187d-4fe6-b8c1-7c7afc634635
+
+	measure Ofertas_por_hora =
+			CALCULATE(
+			    [Total_ofertas],
+			    glassDoor[hourly] = 1
+			)
+		formatString: 0
+		lineageTag: 51cacd0f-7ecb-4135-a67d-b0b9342a1779
+
+	measure Salario_promedio_anual =
+			CALCULATE(
+			    AVERAGE(glassDoor[avg_salary]),
+			    glassDoor[hourly] = 0
+			)
+		formatString: \$#,0.###############;(\$#,0.###############);\$#,0.###############
+		lineageTag: b8697def-f5ec-4e55-bb10-194778a35f03
+
+	measure Salario_promedio_por_hora =
+			CALCULATE(
+			    AVERAGE(glassDoor[avg_salary]),
+			    glassDoor[hourly] = 1
+			)
+		formatString: \$\ #,0;-\$\ #,0;\$\ #,0
+		lineageTag: 03f9393b-d057-421c-b289-a5d4ff3a1515
+
+		annotation PBI_FormatHint = {"currencyCulture":"es-CO"}
+
+	measure Porcentaje_ofertas = ```
+			DIVIDE([Total_ofertas], 
+			CALCULATE( [Total_ofertas], REMOVEFILTERS(glassDoor[job_simp])),0)
+			```
+		formatString: 0.0\ %;-0.0\ %;0.0\ %
+		lineageTag: d0ae4d84-873f-48e7-99d9-5710a400d104
+
+	measure Promedio_salario_maximo_anual =
+			CALCULATE(
+			    AVERAGE(glassDoor[max_salary]),
+			    glassDoor[hourly] = 0
+			)
+		formatString: \$\ #,0.00;-\$\ #,0.00;\$\ #,0.00
+		lineageTag: 59853875-3705-4cdd-a796-10644c1b2587
+
+		annotation PBI_FormatHint = {"currencyCulture":"es-CO"}
+
+	column 'Job Title'
+		dataType: string
+		lineageTag: 06bb8efd-d4cd-4e9f-b305-c51835681bcf
+		summarizeBy: none
+		sourceColumn: Job Title
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Salary Estimate'
+		dataType: string
+		lineageTag: 43d26126-9920-4d45-b78d-ac395dad78bc
+		summarizeBy: none
+		sourceColumn: Salary Estimate
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Job Description'
+		dataType: string
+		lineageTag: 5b3b87c7-31b1-428e-a7f9-54d756470ccd
+		summarizeBy: none
+		sourceColumn: Job Description
+
+		annotation SummarizationSetBy = Automatic
+
+	column Rating
+		dataType: double
+		formatString: 0
+		lineageTag: fb559bf4-a7ec-4375-aeb0-6eff0fde93b2
+		summarizeBy: sum
+		sourceColumn: Rating
+
+		annotation SummarizationSetBy = Automatic
+
+	column company_txt
+		dataType: string
+		lineageTag: 12ec9a50-f39d-4ecc-a49d-9882049b8b75
+		summarizeBy: none
+		sourceColumn: company_txt
+
+		annotation SummarizationSetBy = Automatic
+
+	column Location
+		dataType: string
+		lineageTag: b0d30759-2026-44e4-9fb8-8c9c1197c41d
+		summarizeBy: none
+		sourceColumn: Location
+
+		annotation SummarizationSetBy = Automatic
+
+	column Size
+		dataType: string
+		lineageTag: 8bb012b9-2432-4aea-85b6-679cc1c05ab4
+		summarizeBy: none
+		sourceColumn: Size
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Type of ownership'
+		dataType: string
+		lineageTag: 8443c5b2-afef-4962-ae2f-7d08941bae37
+		summarizeBy: none
+		sourceColumn: Type of ownership
+
+		annotation SummarizationSetBy = Automatic
+
+	column Industry
+		dataType: string
+		lineageTag: 6083f418-f894-422f-9fb2-2d23375b5980
+		summarizeBy: none
+		sourceColumn: Industry
+
+		annotation SummarizationSetBy = Automatic
+
+	column Sector
+		dataType: string
+		lineageTag: af2b4946-70a2-4651-9e27-3d871523b9c9
+		summarizeBy: none
+		sourceColumn: Sector
+
+		annotation SummarizationSetBy = Automatic
+
+	column Revenue
+		dataType: string
+		lineageTag: 28e59a84-00c1-427c-b7b1-5c21c1d55fee
+		summarizeBy: none
+		sourceColumn: Revenue
+
+		annotation SummarizationSetBy = Automatic
+
+	column hourly
+		dataType: int64
+		formatString: 0
+		lineageTag: a9ce8756-2cef-4f16-8b93-79d6336fc995
+		summarizeBy: sum
+		sourceColumn: hourly
+
+		annotation SummarizationSetBy = Automatic
+
+	column employer_provided
+		dataType: int64
+		formatString: 0
+		lineageTag: ff766432-aa22-4557-a6f0-cd55850a9d05
+		summarizeBy: sum
+		sourceColumn: employer_provided
+
+		annotation SummarizationSetBy = Automatic
+
+	column min_salary
+		dataType: decimal
+		formatString: 0
+		lineageTag: 42574258-586d-4e50-9d56-f22ec2ed5401
+		summarizeBy: sum
+		sourceColumn: min_salary
+
+		annotation SummarizationSetBy = Automatic
+
+	column max_salary
+		dataType: decimal
+		formatString: 0
+		lineageTag: e362e719-8145-4987-a13f-f6adb4a6c898
+		summarizeBy: sum
+		sourceColumn: max_salary
+
+		annotation SummarizationSetBy = Automatic
+
+	column avg_salary
+		dataType: decimal
+		formatString: 0
+		lineageTag: 6c991cdd-1de2-4777-b3c0-85943c60c12e
+		summarizeBy: sum
+		sourceColumn: avg_salary
+
+		annotation SummarizationSetBy = Automatic
+
+	column job_state
+		dataType: string
+		lineageTag: 51a3c76c-8667-433b-b407-85604a9644b9
+		summarizeBy: none
+		sourceColumn: job_state
+
+		annotation SummarizationSetBy = Automatic
+
+	column same_state
+		dataType: int64
+		formatString: 0
+		lineageTag: 03aa2dd5-cb1b-46dd-9271-790b43d8be15
+		summarizeBy: sum
+		sourceColumn: same_state
+
+		annotation SummarizationSetBy = Automatic
+
+	column age
+		dataType: int64
+		formatString: 0
+		lineageTag: 5251ee1e-9c61-4a87-9abc-3b717363b0c6
+		summarizeBy: sum
+		sourceColumn: age
+
+		annotation SummarizationSetBy = Automatic
+
+	column python_yn
+		dataType: int64
+		formatString: 0
+		lineageTag: 842d9793-c11c-4ef3-b77e-38bee077ca3e
+		summarizeBy: sum
+		sourceColumn: python_yn
+
+		annotation SummarizationSetBy = Automatic
+
+	column R_yn
+		dataType: int64
+		formatString: 0
+		lineageTag: 029048b5-b4cc-4bfd-bcb8-b84f669bf383
+		summarizeBy: sum
+		sourceColumn: R_yn
+
+		annotation SummarizationSetBy = Automatic
+
+	column spark
+		dataType: int64
+		formatString: 0
+		lineageTag: 393f9052-f305-456b-a485-9a7aa2bbc9e7
+		summarizeBy: sum
+		sourceColumn: spark
+
+		annotation SummarizationSetBy = Automatic
+
+	column aws
+		dataType: int64
+		formatString: 0
+		lineageTag: 15c4492a-b31c-4727-82cd-e814278dd0f2
+		summarizeBy: sum
+		sourceColumn: aws
+
+		annotation SummarizationSetBy = Automatic
+
+	column excel
+		dataType: int64
+		formatString: 0
+		lineageTag: 65ae5cd0-d7b8-484f-b29a-b44e59a07a95
+		summarizeBy: sum
+		sourceColumn: excel
+
+		annotation SummarizationSetBy = Automatic
+
+	column job_simp
+		dataType: string
+		lineageTag: e611952a-cf39-43c7-8962-4506ce544565
+		summarizeBy: none
+		sourceColumn: job_simp
+
+		annotation SummarizationSetBy = Automatic
+
+	column seniority
+		dataType: string
+		lineageTag: 22a0fe1a-c1f0-45f7-8fd9-393a2a2572e9
+		summarizeBy: none
+		sourceColumn: seniority
+
+		annotation SummarizationSetBy = Automatic
+
+	partition glassDoor = m
+		mode: import
+		source =
+				let
+				  Origen = Csv.Document(File.Contents("C:\Users\G_Ardila\OneDrive\Desktop\glassDoor.csv"), [Delimiter = ",", Columns = 26, Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				  #"Encabezados promovidos" = Table.PromoteHeaders(Origen, [PromoteAllScalars = true]),
+				  #"Tipo de columna cambiado" = Table.TransformColumnTypes(#"Encabezados promovidos", {{"Job Title", type text}, {"Salary Estimate", type text}, {"Job Description", type text}, {"Rating", Int64.Type}, {"company_txt", type text}, {"Location", type text}, {"Size", type text}, {"Type of ownership", type text}, {"Industry", type text}, {"Sector", type text}, {"Revenue", type text}, {"hourly", Int64.Type}, {"employer_provided", Int64.Type}, {"min_salary", Int64.Type}, {"max_salary", Int64.Type}, {"avg_salary", Int64.Type}, {"job_state", type text}, {"same_state", Int64.Type}, {"age", Int64.Type}, {"python_yn", Int64.Type}, {"R_yn", Int64.Type}, {"spark", Int64.Type}, {"aws", Int64.Type}, {"excel", Int64.Type}, {"job_simp", type text}, {"seniority", type text}}, "es"),
+				    #"cambio salarios a tipo moneda" = Table.TransformColumnTypes(#"Tipo de columna cambiado",{{"min_salary", Currency.Type}, {"max_salary", Currency.Type}, {"avg_salary", Currency.Type}, {"Rating", type number}}),
+				    #"Columna dividida" = Table.TransformColumns(#"cambio salarios a tipo moneda", {{"avg_salary", each _ / 10, Currency.Type}})
+				in
+				  #"Columna dividida"
+
+	annotation PBI_NavigationStepName = Navegación
+
+	annotation PBI_ResultType = Table
+
